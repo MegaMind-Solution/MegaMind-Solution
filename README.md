@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Web development.
 - 📚 My Crrently studies i ICS statistics.
 - 💞️ I’m looking to collaborate with graphic designers and 
-- 📫 How to you can contact me on [G-Mail](rm4814691@gmail.com) & [Outlook](rm4814691@outlook.com)
+- 📫 How to you can contact me on <a href:"mailto:rm4814691@gmail.com" target:"_blank">Gmail</a><a href:"mailto:rm4814691@outlook.com" target:"_blank">Outlook</a>
 
 
 <!---
