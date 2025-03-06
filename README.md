@@ -3,7 +3,7 @@
 **- 👀 I’m interested in Graphic Designing, Programming and Software modification.**
 - 🌱 I’m currently learning Web development.
 - 📚 My Crrently studies i ICS statistics.
-- 💞️ I’m looking to collaborate with graphic designers and 
+- 💞️ I’m looking to collaborate with graphic designers. 
 
 
 <!---
