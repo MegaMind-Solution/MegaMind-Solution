@@ -27,11 +27,11 @@
 <!-- /wp:image -->
 
 <!-- wp:image {"id":15,"sizeSlug":"thumbnail","linkDestination":"custom","align":"center"} -->
-<figure class="wp-block-image aligncenter size-thumbnail"><a href="https://github.com/MegaMind-Solution" target="_blank" rel="noreferrer noopener"><img src="https://microresearchcorpration.wordpress.com/wp-content/uploads/2025/04/mrd_logo5415411184348001875.png?w=150" alt="MRd" class="wp-image-15"/></a><figcaption class="wp-element-caption">MindRise Designs©</figcaption></figure>
+<figure class="wp-block-image aligncenter size-thumbnail"><a href="https://github.com/MegaMind-Solution" target="_blank" rel="noreferrer noopener"><img src="https://microresearchcorpration.wordpress.com/wp-content/uploads/2025/04/mrd_logo5415411184348001875.png?w=150" alt="MRd" class="wp-image-15"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":16,"sizeSlug":"thumbnail","linkDestination":"custom","align":"center"} -->
-<figure class="wp-block-image aligncenter size-thumbnail"><a href="https://github.com/MegaMind-Solution" target="_blank" rel="noreferrer noopener"><img src="https://microresearchcorpration.wordpress.com/wp-content/uploads/2025/04/20240722_2137523465775070628357238.png?w=150" alt="MMs" class="wp-image-16"/></a><figcaption class="wp-element-caption">MegaMind Solutions</figcaption></figure>
+<figure class="wp-block-image aligncenter size-thumbnail"><a href="https://github.com/MegaMind-Solution" target="_blank" rel="noreferrer noopener"><img src="https://microresearchcorpration.wordpress.com/wp-content/uploads/2025/04/20240722_2137523465775070628357238.png?w=150" alt="MMs" class="wp-image-16"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center"} -->
@@ -39,5 +39,5 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":17,"sizeSlug":"thumbnail","linkDestination":"custom","align":"center","className":"is-style-default"} -->
-<figure class="wp-block-image aligncenter size-thumbnail is-style-default"><a href="http://linkwaley.wordpress.com" target="_blank" rel="noreferrer noopener"><img src="https://microresearchcorpration.wordpress.com/wp-content/uploads/2025/04/wp-1743766940847.gif?w=150" alt="Go" class="wp-image-17"/></a><figcaption class="wp-element-caption">Click on image</figcaption></figure>
+<figure class="wp-block-image aligncenter size-thumbnail is-style-default"><a href="http://linkwaley.wordpress.com" target="_blank" rel="noreferrer noopener"><img src="https://microresearchcorpration.wordpress.com/wp-content/uploads/2025/04/wp-1743766940847.gif?w=150" alt="Go" class="wp-image-17"/></a></figure>
 <!-- /wp:image -->
