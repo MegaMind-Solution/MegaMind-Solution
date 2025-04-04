@@ -23,7 +23,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":14,"sizeSlug":"thumbnail","linkDestination":"custom","align":"center"} -->
-<figure class="wp-block-image aligncenter size-thumbnail"><a href="https://github.com/MegaMind-Solution"><img src="https://microresearchcorpration.wordpress.com/wp-content/uploads/2025/04/mrc_logo8429133475839215674.png?w=150" alt="Mrc" class="wp-image-14"/></a><figcaption class="wp-element-caption">MicroResearch Corporation®</figcaption></figure>
+<figure class="wp-block-image aligncenter size-thumbnail"><a href="https://github.com/MegaMind-Solution"><img src="https://microresearchcorpration.wordpress.com/wp-content/uploads/2025/04/mrc_logo8429133475839215674.png?w=150" alt="Mrc" class="wp-image-14"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":15,"sizeSlug":"thumbnail","linkDestination":"custom","align":"center"} -->
