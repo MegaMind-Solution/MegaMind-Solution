@@ -3,14 +3,14 @@
 Hi there! 👋🏼  
 I'm **M Ramzan Ch.**
 
-Co-founder of:  
+founder of:  
 🚀 **MicroResearch Corporation**  
 🎬 **MindRise Designs**  
 🤖 **MegaMind-Solution**
 
 ---
 
-## 🏢 My Projects
+## 🏢 My Agencies And Groups
 
 <table>
   <tr>
