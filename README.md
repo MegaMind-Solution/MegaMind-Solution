@@ -3,7 +3,7 @@
 </p>  
   
 <p align="center" style="border-radius:50%;">  
-  <img src="https://raw.githubusercontent.com/MegaMind-Solution/MegaMind-Solution/refs/heads/main/Img/Ramzanch.png" alt="Profile Picture" width="100" style="border-radius:50%; border:4px solid white; margin:-70px 0 0 0;"/>  
+  <img src="https://raw.githubusercontent.com/MegaMind-Solution/MegaMind-Solution/refs/heads/main/Img/M%20Ramzan%20GitHub%20New%20Time%20New%20Look%20_20250926_181503_0000.png" alt="Profile Picture" width="100" style="border-radius:50%; border:4px solid white; margin:-70px 0 0 0;"/>  
 </p>  
   
 <h2 align="center" style="margin:-20px 0 0 0;">M Ramzan Ch</h2>  
