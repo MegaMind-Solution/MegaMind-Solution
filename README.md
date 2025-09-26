@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/MegaMind-Solution/MegaMind-Solution/refs/heads/main/Img/DoWhat.jpg" alt="Background Banner" width="100%" height="auto"/>  
 </p>  
   
-<p align="center">  
+<p align="center" style="border-radius:50%;">  
   <img src="https://raw.githubusercontent.com/MegaMind-Solution/MegaMind-Solution/refs/heads/main/Img/Ramzanch.png" alt="Profile Picture" width="100" style="border-radius:50%; border:4px solid white; margin:-70px 0 0 0;"/>  
 </p>  
   
