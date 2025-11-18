@@ -143,7 +143,7 @@ Passionate about coding, innovation, and building solutions that matter.
 ## 🚀 Top Repositories
 - [**MegaMind-Solution**](https://github.com/MegaMind-Solution/MegaMind-Solution) - Config files for my GitHub profile.
 - [**pro-profiles**](https://github.com/MegaMind-Solution/pro-profiles) – Power up your GitHub profile with awesome readmes and automations!
-- [**pro-profiles**](https://github.com/MegaMind-Solution/MRamzanCh) – My Bloggee and GitHub Portfolio page! 
+- [**MRamzanCh**](https://github.com/MegaMind-Solution/MRamzanCh) – My Bloggee and GitHub Portfolio page! 
 - [**My_Modes**](https://github.com/MegaMind-Solution/My_Modes) – Explore my custom modes, tools, and productivity boosters.  
 - [**DownTube_Vip_Mod_Of_Snaptube**](https://github.com/MegaMind-Solution/DownTube_Vip_Mod_Of_Snaptube) – A revamped experience for video lovers!  
 - [**Recordit-best-screen-recoder**](https://github.com/MegaMind-Solution/Recordit-best-screen-recoder) – Capture your screen with ease and efficiency.  
