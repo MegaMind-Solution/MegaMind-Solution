@@ -1,12 +1,13 @@
-<p align="center">  
-  <img src="https://raw.githubusercontent.com/MegaMind-Solution/MegaMind-Solution/refs/heads/main/Img/DoWhat.jpg" alt="Background Banner" width="100%" height="auto"/>  
-</p>  
+[![Banner  image](https://raw.githubusercontent.com/MegaMind-Solution/MegaMind-Solution/refs/heads/main/App/New%20Time%20New%20Look%20New%20Style_20251208_140709_0000.png)](https//github.com/MegaMind-Solution)
   
 <p align="center" style="border-radius:50%;">  
-  <img src="https://raw.githubusercontent.com/MegaMind-Solution/MegaMind-Solution/refs/heads/main/Img/M%20Ramzan%20GitHub%20New%20Time%20New%20Look%20_20250926_181503_0000.png" alt="Profile Picture" width="100" style="border-radius:50%; border:4px solid white; margin:-70px 0 0 0;"/>  
+  <img src="https://avatars.githubusercontent.com/u/191318204?v=4" alt="Profile Picture" width="100" style="border-radius:50%; border:4px solid white; margin:-70px 0 0 0;"/>  
 </p>  
-  
-<h2 align="center" style="margin:-20px 0 0 0;">M Ramzan Ch</h2>  
+
+<hr>
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Teko&weight=600&size=45&pause=100&color=F44234&center=true&vCenter=true&multiline=true&width=550&height=200&lines=HI!+%F0%9F%91%8B;I'm+M+Ramzan+Ch;A+Web+Developer+and+Designer.)](https://share.google/QWiVebTBghUH4jiIk)
   
 <p align="center" style="margin:-5px 0 0 0">  
   🌟 <i>"Do what is good, not what is easy."</i> 🌟  
@@ -142,8 +143,8 @@ Passionate about coding, innovation, and building solutions that matter.
   
 ## 🚀 Top Repositories
 - [**MegaMind-Solution**](https://github.com/MegaMind-Solution/MegaMind-Solution) - Config files for my GitHub profile.
-- [**pro-profiles**](https://github.com/MegaMind-Solution/pro-profiles) – Power up your GitHub profile with awesome readmes and automations!
-- [**MRamzanCh**](https://github.com/MegaMind-Solution/MRamzanCh) – My Bloggee and GitHub Portfolio page! 
+- [**Pro-Dev-Profiles**](https://github.com/MegaMind-Solution/Pro-Dev-Profiles) – Power up your GitHub profile with awesome readmes and automations!
+- [**MRamzanCh**](https://github.com/MegaMind-Solution/MRamzanCh) – My Blogget and GitHub Portfolio page! 
 - [**My_Modes**](https://github.com/MegaMind-Solution/My_Modes) – Explore my custom modes, tools, and productivity boosters.  
 - [**DownTube_Vip_Mod_Of_Snaptube**](https://github.com/MegaMind-Solution/DownTube_Vip_Mod_Of_Snaptube) – A revamped experience for video lovers!  
 - [**Recordit-best-screen-recoder**](https://github.com/MegaMind-Solution/Recordit-best-screen-recoder) – Capture your screen with ease and efficiency.  
@@ -157,17 +158,20 @@ Passionate about coding, innovation, and building solutions that matter.
   <a href="https://instagram.com/rm4814691" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" style="margin:auto 10px;" width="40" alt="Instagram"/></a>  
   <a href="https://pk.linkedin.com/in/mramzanch" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="margin:auto 10px;" width="40" alt="LinkedIn"/></a>  
   <a href="https://MicroResearch.co" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="40" style="margin:auto 10px;" alt="Website"/></a>  
-  <a href="mailto:rm4814691@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" style="margin:auto 10px;" width="40" alt="Email"/></a>  
+  <a href="mailto:tell@mrc.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" style="margin:auto 10px;" width="40" alt="Email"/></a>  
 </p>  
   
 ---  
   
 ## 📊 GitHub Stats  
+
+[![Pro Bandey profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://github.com/Pro-Bandey)
+
   
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MegaMind-Solution&theme=tokyo-night" alt="Activity Graph"/> 
   <img src="https://github-readme-stats.vercel.app/api?username=MegaMind-Solution&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>  
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=YourUsername&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=MegaMind-Solution&theme=tokyonight" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MegaMind-Solution&layout=compact&theme=tokyonight" alt="Top Languages"/>  
 </p> 
   
