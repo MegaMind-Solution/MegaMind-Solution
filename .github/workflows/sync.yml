@@ -3,7 +3,7 @@ name: Build CDN Image Metadata
 on:
   push:
     paths:
-      - "images/**"
+      - "Img/**" # Changed from images/ to Img/
   workflow_dispatch:
 
 permissions:
@@ -17,7 +17,7 @@ jobs:
       - name: Checkout main
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 0 # Required for git log history
 
       - name: Install tools
         run: |
@@ -34,13 +34,13 @@ jobs:
           const { execSync } = require("child_process");
           const sizeOf = require("image-size");
 
-          const ROOT = "images";
+          const ROOT = "Img"; // Matches your repo folder name
           const OUT = "images-meta.json";
-          const allowed = /\.(png|jpe?g|webp|bmp|tiff)$/i;
+          const allowed = /\.(png|jpe?g|webp|bmp|tiff|gif|svg)$/i;
 
           if (!fs.existsSync(ROOT)) {
-            console.log("No images directory found.");
-            process.exit(0);
+            console.error(`Error: Directory "${ROOT}" not found.`);
+            process.exit(1);
           }
 
           function walk(dir) {
@@ -76,12 +76,12 @@ jobs:
             const stat = fs.statSync(file);
             const ext = path.extname(file).slice(1).toLowerCase();
             
-            // Fixed folder logic: gets the relative path within the images directory
             const relativePath = path.relative(ROOT, path.dirname(file));
             const folder = relativePath === "" ? "root" : relativePath.replace(/\\/g, "/");
 
             let dpi = "unknown", bit = "unknown";
             try {
+              // Using ImageMagick to get deeper metadata
               const r = execSync(`identify -format "%x|%z" "${file}"`)
                 .toString().trim().split("|");
               dpi = r[0] || "unknown"; 
@@ -91,7 +91,7 @@ jobs:
             hashes[hash] = (hashes[hash] || 0) + 1;
 
             images.push({
-              id: hash.slice(0, 12), // Slightly longer ID for better collision resistance
+              id: hash.slice(0, 12),
               name: path.basename(file),
               src: file.replace(/\\/g, "/"),
               folder,
@@ -127,33 +127,21 @@ jobs:
 
       - name: Deploy to Output Branch
         run: |
-          # 1. Store the generated file safely and REMOVE from current workspace
           cp images-meta.json /tmp/images-meta.json
-          rm images-meta.json
-          
-          # 2. Setup Git
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           
-          # 3. Fetch and Switch branch
           git fetch origin
           if git show-ref --verify --quiet refs/remotes/origin/output; then
-            # Branch exists: Force switch to it
             git checkout -f output
             git reset --hard origin/output
           else
-            # Branch doesn't exist: Create orphan
             git checkout --orphan output
           fi
           
-          # 4. Wipe the workspace on the new branch to keep it metadata-only
           git rm -rf . || true
-          
-          # 5. Bring the file back from the temporary location
           cp /tmp/images-meta.json images-meta.json
           
-          # 6. Commit and Push
           git add images-meta.json
-          # Use --allow-empty in case the JSON content hasn't actually changed
           git commit -m "chore: update cdn metadata [skip ci]" || echo "No changes to commit"
           git push origin output --force
