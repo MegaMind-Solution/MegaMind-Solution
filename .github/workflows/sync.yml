@@ -3,7 +3,7 @@ name: Build CDN Image Metadata
 on:
   push:
     paths:
-      - "images/**"
+      - "Img/**"
   workflow_dispatch:
 
 permissions:
@@ -41,7 +41,7 @@ jobs:
           const crypto = require("crypto");
           const { execSync } = require("child_process");
 
-          const ROOT = "images";
+          const ROOT = "Img";
           const OUT = "images-meta.json";
           const PREV_FILE = "prev-images-meta.json";
           const allowed = /\.(png|jpe?g|webp|bmp|tiff|gif|svg)$/i;
