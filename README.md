@@ -7,8 +7,9 @@
 
 <hr>
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Teko&weight=600&size=45&pause=100&color=F44234&center=true&vCenter=true&multiline=true&width=550&height=200&lines=HI!+%F0%9F%91%8B;I'm+M+Ramzan+Ch;A+Web+Developer+and+Designer.)](https://share.google/QWiVebTBghUH4jiIk)
+<p align="center" style="border-radius:50%;">  
+  <img src="https://readme-typing-svg.demolab.com?font=Teko&weight=600&size=45&pause=100&color=F44234&center=true&vCenter=true&multiline=true&width=550&height=200&lines=HI!+%F0%9F%91%8B;I'm+M+Ramzan+Ch;A+Web+Developer+and+Designer." alt="Profile Picture"/>  
+</p> 
   
 <p align="center" style="margin:-5px 0 0 0">  
   🌟 <i>"Do what is good, not what is easy."</i> 🌟  
