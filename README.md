@@ -1,7 +1,8 @@
-[![Banner  image](https://raw.githubusercontent.com/MegaMind-Solution/MegaMind-Solution/refs/heads/main/App/New%20Time%20New%20Look%20New%20Style_20251208_140709_0000.png)](https//github.com/MegaMind-Solution)
+[![Banner  image](./images/M%20Ramzan%20Ch/New%20Time%20New%20Look%20New%20GitUb%20Banner.png)](https//github.com/MegaMind-Solution)
   
+
 <p align="center" style="border-radius:50%;">  
-  <img src="https://avatars.githubusercontent.com/u/191318204?v=4" alt="Profile Picture" width="100" style="border-radius:50%; border:4px solid white; margin:-70px 0 0 0;"/>  
+  <img src="https://avatars.githubusercontent.com/u/191318204" alt="Profile Picture" width="100" style="border-radius:50%; border:4px solid white; margin:-70px 0 0 0;"/>  
 </p>  
 
 <hr>
@@ -53,19 +54,19 @@ Passionate about coding, innovation, and building solutions that matter.
   <tr>  
     <td align="center">  
       <a href="https://github.com/MegaMind-Solution" target="_blank">  
-        <img src="https://microresearchcorpration.wordpress.com/wp-content/uploads/2025/04/mrc_logo8429133475839215674.png?w=150" alt="MicroResearch Corporation" width="100"/><br/>  
+        <img src="./images/M Ramzan Ch/MRc Official Gear Logo.png" alt="MicroResearch Corporation" width="100"/><br/>  
         <strong>MicroResearch Corporation</strong>  
       </a>  
     </td>  
     <td align="center">  
       <a href="https://github.com/MegaMind-Solution" target="_blank">  
-        <img src="https://microresearchcorpration.wordpress.com/wp-content/uploads/2025/04/mrd_logo5415411184348001875.png?w=150" alt="MindRise Designs" width="100"/><br/>  
+        <img src="./images/M Ramzan Ch/MRd Official CameraLight Logo.png"MindRise Designs" width="100"/><br/>  
         <strong>MindRise Designs</strong>  
       </a>  
     </td>  
     <td align="center">  
       <a href="https://github.com/MegaMind-Solution" target="_blank">  
-        <img src="https://microresearchcorpration.wordpress.com/wp-content/uploads/2025/04/20240722_2137523465775070628357238.png?w=150" alt="MegaMind-Solution" width="100"/><br/>  
+        <img src="./images/M Ramzan Ch/MegaMind-Solution Old Bot Logo.png" width="100"/><br/>  
         <strong>MegaMind-Solution</strong>  
       </a>  
     </td>  
@@ -144,7 +145,7 @@ Passionate about coding, innovation, and building solutions that matter.
 ## 🚀 Top Repositories
 - [**MegaMind-Solution**](https://github.com/MegaMind-Solution/MegaMind-Solution) - Config files for my GitHub profile.
 - [**Pro-Profiles**](https://github.com/MegaMind-Solution/Pro-Profiles) – Power up your GitHub profile with awesome readmes and automations!
-- [**MRamzanCh**](https://github.com/MegaMind-Solution/MRamzanCh) – My Blogget and GitHub Portfolio page! 
+- [**MRamzanCh**](https://mramzanch.blogspot.com/) – My Blogget and GitHub Portfolio page! 
 - [**My_Modes**](https://github.com/MegaMind-Solution/My_Modes) – Explore my custom modes, tools, and productivity boosters.  
 - [**DownTube_Vip_Mod_Of_Snaptube**](https://github.com/MegaMind-Solution/DownTube_Vip_Mod_Of_Snaptube) – A revamped experience for video lovers!  
 - [**Recordit-best-screen-recoder**](https://github.com/MegaMind-Solution/Recordit-best-screen-recoder) – Capture your screen with ease and efficiency.  
@@ -158,7 +159,7 @@ Passionate about coding, innovation, and building solutions that matter.
   <a href="https://instagram.com/rm4814691" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" style="margin:auto 10px;" width="40" alt="Instagram"/></a>  
   <a href="https://pk.linkedin.com/in/mramzanch" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="margin:auto 10px;" width="40" alt="LinkedIn"/></a>  
   <a href="https://MicroResearch.co" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="40" style="margin:auto 10px;" alt="Website"/></a>  
-  <a href="mailto:tell@mrc.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" style="margin:auto 10px;" width="40" alt="Email"/></a>  
+  <a href="mailto:mms@mrc.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" style="margin:auto 10px;" width="40" alt="Email"/></a>  
 </p>  
   
 ---  
@@ -177,13 +178,6 @@ Passionate about coding, innovation, and building solutions that matter.
   
 ---  
   
-## 🏆 Achievements  
-  
-<p align="center">  
-  <img src="https://github-profile-trophy.vercel.app/?username=MegaMind-Solution&theme=radical&margin-w=15" alt="Trophy"/>  
-</p>  
-  
----  
   
 ## 🎯 Fun Facts  
   
