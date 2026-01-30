@@ -2,7 +2,7 @@
   
 
 <p align="center" style="border-radius:50%;">  
-  <img src="https://avatars.githubusercontent.com/u/191318204" alt="Profile Picture" width="100" style="border-radius:50%; border:4px solid white; margin:-70px 0 0 0;"/>  
+  <img src="https://avatars.githubusercontent.com/u/191318204" alt="Profile Picture" width="150" style="border-radius:50%; border:4px solid white; margin:-70px 0 0 0;"/>  
 </p>  
 
 <hr>
