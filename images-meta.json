@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-02-22T11:31:13.548Z",
-  "total": 218,
+  "generated_at": "2026-02-22T11:34:18.775Z",
+  "total": 216,
   "duplicates": 2
 ,
   "images": [
@@ -135,11 +135,9 @@
     {"id":"3c332245ea30","name":"20250922_152733.jpg","src":"images/Card/20250922_152733.jpg","folder":"Card","ext":"jpg","dpi":"72","bit_depth":"8","kb":6.92,"hash":"3c332245ea309875ff89e868e4e24293864419a48a59746106ed037b2d5b5734","dates":{"added":"2025-09-22","updated":"2026-01-27"}},
     {"id":"0b6664a7a10e","name":"20250922_152737.jpg","src":"images/Card/20250922_152737.jpg","folder":"Card","ext":"jpg","dpi":"72","bit_depth":"8","kb":6.91,"hash":"0b6664a7a10ea45985d53015dfddccb987176646ab1986165dbd61d19bac949b","dates":{"added":"2025-09-22","updated":"2026-01-27"}},
     {"id":"38f915b68f83","name":"CALL.png","src":"images/Extensons Icons/CALL.png","folder":"Extensons Icons","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":5.76,"hash":"38f915b68f832e237f81e57df1cb4443cb086a2e554e9a205dc59749e4108677","dates":{"added":"2026-02-22","updated":"2026-02-22"}},
-    {"id":"27969f913b69","name":"Catch sreen.png","src":"images/Extensons Icons/Catch sreen.png","folder":"Extensons Icons","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":14.62,"hash":"27969f913b690c34c5b25b4ba9711eee382ebf9970a57ea46993d7b221b3965e","dates":{"added":"2026-01-27","updated":"2026-01-27"}},
-    {"id":"ea4fc98ee7c3","name":"Chrome App Launcher.png","src":"images/Extensons Icons/Chrome App Launcher.png","folder":"Extensons Icons","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":2.17,"hash":"ea4fc98ee7c334477167287201d53854456a0464ae91d585ff214a9ef25d7f83","dates":{"added":"2026-01-27","updated":"2026-01-27"}},
-    {"id":"dc3853999f8f","name":"Chrome App Launcher.svg","src":"images/Extensons Icons/Chrome App Launcher.svg","folder":"Extensons Icons","ext":"svg","dpi":"72","bit_depth":"16","kb":13.79,"hash":"dc3853999f8fbd9698d57f23318277272935584abc838f34b9e7d7ebf531447e","dates":{"added":"2026-01-27","updated":"2026-01-27"}},
+    {"id":"714efb73720c","name":"Catch sreen.png","src":"images/Extensons Icons/Catch sreen.png","folder":"Extensons Icons","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":19.49,"hash":"714efb73720c3d659663c1f79164d6b381079b9d70bf26dcbcf7f7999f1704fa","dates":{"added":"2026-01-27","updated":"2026-02-22"}},
+    {"id":"81e08de5cda1","name":"Chrome App Launcher.png","src":"images/Extensons Icons/Chrome App Launcher.png","folder":"Extensons Icons","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":2.17,"hash":"81e08de5cda1569b209156b070877b45b6f8bf09331fc0e1da92626b6066e868","dates":{"added":"2026-01-27","updated":"2026-02-22"}},
     {"id":"938550129490","name":"DocEdit.png","src":"images/Extensons Icons/DocEdit.png","folder":"Extensons Icons","ext":"png","dpi":"39.369999999999997442","bit_depth":"8","kb":6.05,"hash":"938550129490175bf71e50a558976eeb0615814e8362582a073a9d7c380e3ff1","dates":{"added":"2026-01-27","updated":"2026-01-27"}},
-    {"id":"15664d83e6e7","name":"DocEdit.svg","src":"images/Extensons Icons/DocEdit.svg","folder":"Extensons Icons","ext":"svg","dpi":"72","bit_depth":"16","kb":83.81,"hash":"15664d83e6e734310fa37f55106e61860c8af6cbd78a66daa67ac4d78a2e5717","dates":{"added":"2026-01-27","updated":"2026-01-27"}},
     {"id":"d416d486f5c4","name":"Free Cursor 3.0.png","src":"images/Extensons Icons/Free Cursor 3.0.png","folder":"Extensons Icons","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":16.63,"hash":"d416d486f5c482bd3c33f06abe6c144b806a3c2cfcfae59d7c3cc0819048a624","dates":{"added":"2026-01-27","updated":"2026-01-27"}},
     {"id":"627436841f80","name":"Free Cursor 3.0.svg","src":"images/Extensons Icons/Free Cursor 3.0.svg","folder":"Extensons Icons","ext":"svg","dpi":"72","bit_depth":"16","kb":26.96,"hash":"627436841f80a7e76ee8c8c9305a02ceb84daa15888a788928fff9580eefde41","dates":{"added":"2026-01-27","updated":"2026-01-27"}},
     {"id":"5a0d25629a57","name":"Free Cursor Lite 2.0.png","src":"images/Extensons Icons/Free Cursor Lite 2.0.png","folder":"Extensons Icons","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":16.14,"hash":"5a0d25629a570dd1b9cee83a37a15debb020665b81d000ca6de937fde04affce","dates":{"added":"2026-01-27","updated":"2026-01-27"}},
