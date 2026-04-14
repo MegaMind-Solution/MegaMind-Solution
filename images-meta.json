@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-04-08T16:19:03.966Z",
-  "total": 231,
+  "generated_at": "2026-04-14T05:42:26.671Z",
+  "total": 233,
   "duplicates": 1
 ,
   "images": [
@@ -134,6 +134,7 @@
     {"id":"1f664b8099cf","name":"20250922_152133.jpg","src":"images/Card/20250922_152133.jpg","folder":"Card","ext":"jpg","dpi":"72","bit_depth":"8","kb":249.35,"hash":"1f664b8099cfac3f19e918a4fada5a2a02d9d15da4fdbc583bf0e82915365f84","dates":{"added":"2026-04-08","updated":"2026-04-08"}},
     {"id":"3c332245ea30","name":"20250922_152733.jpg","src":"images/Card/20250922_152733.jpg","folder":"Card","ext":"jpg","dpi":"72","bit_depth":"8","kb":6.92,"hash":"3c332245ea309875ff89e868e4e24293864419a48a59746106ed037b2d5b5734","dates":{"added":"2026-04-08","updated":"2026-04-08"}},
     {"id":"0b6664a7a10e","name":"20250922_152737.jpg","src":"images/Card/20250922_152737.jpg","folder":"Card","ext":"jpg","dpi":"72","bit_depth":"8","kb":6.91,"hash":"0b6664a7a10ea45985d53015dfddccb987176646ab1986165dbd61d19bac949b","dates":{"added":"2026-04-08","updated":"2026-04-08"}},
+    {"id":"6f9a13c02bc1","name":"AddOns Manager.png","src":"images/Extensons Icons/AddOns Manager.png","folder":"Extensons Icons","ext":"png","dpi":"56.689999999999997726","bit_depth":"8","kb":15.11,"hash":"6f9a13c02bc19e43115e09550a9881a3145e060f5224c466186406e98995f3ef","dates":{"added":"2026-04-14","updated":"2026-04-14"}},
     {"id":"38f915b68f83","name":"CALL.png","src":"images/Extensons Icons/CALL.png","folder":"Extensons Icons","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":5.76,"hash":"38f915b68f832e237f81e57df1cb4443cb086a2e554e9a205dc59749e4108677","dates":{"added":"2026-04-08","updated":"2026-04-08"}},
     {"id":"714efb73720c","name":"Catch sreen.png","src":"images/Extensons Icons/Catch sreen.png","folder":"Extensons Icons","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":19.49,"hash":"714efb73720c3d659663c1f79164d6b381079b9d70bf26dcbcf7f7999f1704fa","dates":{"added":"2026-04-08","updated":"2026-04-08"}},
     {"id":"81e08de5cda1","name":"Chrome App Launcher.png","src":"images/Extensons Icons/Chrome App Launcher.png","folder":"Extensons Icons","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":2.17,"hash":"81e08de5cda1569b209156b070877b45b6f8bf09331fc0e1da92626b6066e868","dates":{"added":"2026-04-08","updated":"2026-04-08"}},
@@ -151,6 +152,7 @@
     {"id":"9640440a6466","name":"Img To SVG.png","src":"images/Extensons Icons/Img To SVG.png","folder":"Extensons Icons","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":41.84,"hash":"9640440a6466441414b37b016125531a4949f2464b6a13a2475f664d6a64987c","dates":{"added":"2026-04-08","updated":"2026-04-08"}},
     {"id":"d13e0b24cafb","name":"Play Onyx.png","src":"images/Extensons Icons/Play Onyx.png","folder":"Extensons Icons","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":41.58,"hash":"d13e0b24cafb39117879285fe21c3a5e1ec6caf1407a6447eac8c77f2f73d7b4","dates":{"added":"2026-04-08","updated":"2026-04-08"}},
     {"id":"ae1246039b5c","name":"QR SnG.png","src":"images/Extensons Icons/QR SnG.png","folder":"Extensons Icons","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":1.97,"hash":"ae1246039b5c991d55b2d49548c0fdf0dd908edd317ff3c424289e4c4124757f","dates":{"added":"2026-04-08","updated":"2026-04-08"}},
+    {"id":"cdd09a5c9a27","name":"AddOns Manager.svg","src":"images/Extensons Icons/SVGs/AddOns Manager.svg","folder":"Extensons Icons/SVGs","ext":"svg","dpi":"72","bit_depth":"16","kb":1.24,"hash":"cdd09a5c9a27a6ee9cc057073e421d4ccfec8f9ba5a7728fc254726f88d70f60","dates":{"added":"2026-04-14","updated":"2026-04-14"}},
     {"id":"a1c29917b72b","name":"CALL.svg","src":"images/Extensons Icons/SVGs/CALL.svg","folder":"Extensons Icons/SVGs","ext":"svg","dpi":"unknown","bit_depth":"unknown","kb":8.49,"hash":"a1c29917b72b4a429847fdb5c58b251352972e11fbee81c23472c6356c57fc7e","dates":{"added":"2026-04-08","updated":"2026-04-08"}},
     {"id":"9205227b4f76","name":"Catch sreen.svg","src":"images/Extensons Icons/SVGs/Catch sreen.svg","folder":"Extensons Icons/SVGs","ext":"svg","dpi":"unknown","bit_depth":"unknown","kb":2.63,"hash":"9205227b4f7688d0384b40779ee4cf4b0485892931a4f3ea6b4c0f0e21114164","dates":{"added":"2026-04-08","updated":"2026-04-08"}},
     {"id":"525738a219fe","name":"Chrome App Launcher.svg","src":"images/Extensons Icons/SVGs/Chrome App Launcher.svg","folder":"Extensons Icons/SVGs","ext":"svg","dpi":"unknown","bit_depth":"unknown","kb":5.75,"hash":"525738a219fe72069d78d0f341673765de7d515e695497dff52321a00155d909","dates":{"added":"2026-04-08","updated":"2026-04-08"}},
