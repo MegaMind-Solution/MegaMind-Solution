@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-04-20T18:02:06.255Z",
-  "total": 245,
+  "generated_at": "2026-04-22T13:26:58.061Z",
+  "total": 244,
   "duplicates": 1
 ,
   "images": [
@@ -25,8 +25,8 @@
     {"id":"f33d9f2bc321","name":"Blank_W4B.png","src":"images/Apps/Blank_W4B.png","folder":"Apps","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":17.05,"hash":"f33d9f2bc321704817b1e18b8cf249a8de50929ed5f2a3cd8a8d36e3819ceb1c","dates":{"added":"2026-04-08","updated":"2026-04-08"}},
     {"id":"0e15208ee3f7","name":"Blank_W4B_Old.png","src":"images/Apps/Blank_W4B_Old.png","folder":"Apps","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":41.43,"hash":"0e15208ee3f7850ec707b7edee80f32e055f1953180ee1c1a45ada452e7f53d4","dates":{"added":"2026-04-08","updated":"2026-04-08"}},
     {"id":"4f901afa9825","name":"Blank_WA.png","src":"images/Apps/Blank_WA.png","folder":"Apps","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":44.42,"hash":"4f901afa982533dda3909f3baf4bdf2f971efc3dd0b36bb7ceee6e5177cdf411","dates":{"added":"2026-04-08","updated":"2026-04-08"}},
-    {"id":"93ca62d1ffda","name":"Blank_YT-1.png","src":"images/Apps/Blank_YT-1.png","folder":"Apps","ext":"png","dpi":"37.789999999999999147","bit_depth":"8","kb":17.58,"hash":"93ca62d1ffdaa1798488aa984ecd6a1afba28d3ea0558a5d54d2d2a63ff07d46","dates":{"added":"2026-04-08","updated":"2026-04-08"}},
-    {"id":"57df84ebeb8e","name":"Blank_YT.png","src":"images/Apps/Blank_YT.png","folder":"Apps","ext":"png","dpi":"37.789999999999999147","bit_depth":"8","kb":21.22,"hash":"57df84ebeb8ebbf76e46b5bcf44c5e6fe4c4441df104d1e8a19184f0722cdbc4","dates":{"added":"2026-04-08","updated":"2026-04-08"}},
+    {"id":"9d674b3bd23f","name":"Blank_YouTube+Maskable.png","src":"images/Apps/Blank_YouTube+Maskable.png","folder":"Apps","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":6.57,"hash":"9d674b3bd23f290cce7618ccc2082276374ed1c1cdf1570eb1c2f5e6b778ea9f","dates":{"added":"2026-04-22","updated":"2026-04-22"}},
+    {"id":"7efe2f31ee94","name":"Blank_YouTube.png","src":"images/Apps/Blank_YouTube.png","folder":"Apps","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":26.7,"hash":"7efe2f31ee94754252ce5132df9506586ddf4bcd383499eb9ae2cc8b1a68bc5b","dates":{"added":"2026-04-22","updated":"2026-04-22"}},
     {"id":"89646f5bd211","name":"Browsit Ultra.png","src":"images/Apps/Browsit Ultra.png","folder":"Apps","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":36.98,"hash":"89646f5bd21180b2263b5fb813e3b526ef43f89a1fc30755464452894ee09e7a","dates":{"added":"2026-04-08","updated":"2026-04-08"}},
     {"id":"be6ed334d293","name":"Browsit.png","src":"images/Apps/Browsit.png","folder":"Apps","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":43.49,"hash":"be6ed334d293f9e392b65fe51066dad8c042592bd54e381110dba93947f3220e","dates":{"added":"2026-04-08","updated":"2026-04-08"}},
     {"id":"58e1111ffe06","name":"Canva.png","src":"images/Apps/Canva.png","folder":"Apps","ext":"png","dpi":"72","bit_depth":"8","kb":106.67,"hash":"58e1111ffe06a5234577963acff3726ddf942fba19a38475889e184b6e754ffc","dates":{"added":"2026-04-08","updated":"2026-04-08"}},
@@ -119,9 +119,8 @@
     {"id":"dbb9fbe600f6","name":"WhatsApp_Green.png","src":"images/Apps/WhatsApp_Green.png","folder":"Apps","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":33.6,"hash":"dbb9fbe600f6bd958bd491b45aed8d22fd2bfad1cd39ac5de7ac1802e54c36d0","dates":{"added":"2026-04-08","updated":"2026-04-08"}},
     {"id":"f38246432d04","name":"WhatsApp_White.png","src":"images/Apps/WhatsApp_White.png","folder":"Apps","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":20.94,"hash":"f38246432d04ce68c7edaa670b595b9f67dad39d1588581a96b4c8f2239e5a4e","dates":{"added":"2026-04-08","updated":"2026-04-08"}},
     {"id":"601891d620d3","name":"Xos.png","src":"images/Apps/Xos.png","folder":"Apps","ext":"png","dpi":"72","bit_depth":"8","kb":83.58,"hash":"601891d620d3abcaae925495a1a9528d82c54ba5d84b2918c9bd32a55d3ae54c","dates":{"added":"2026-04-08","updated":"2026-04-08"}},
-    {"id":"e73ca655445e","name":"YT.png","src":"images/Apps/YT.png","folder":"Apps","ext":"png","dpi":"37.789999999999999147","bit_depth":"8","kb":25.63,"hash":"e73ca655445e0eabaa4c43bb5108bc4429051ff816de890aa9d9ff4b52fda9db","dates":{"added":"2026-04-08","updated":"2026-04-08"}},
-    {"id":"208c570bb8d4","name":"YT_BW.png","src":"images/Apps/YT_BW.png","folder":"Apps","ext":"png","dpi":"37.789999999999999147","bit_depth":"8","kb":24.93,"hash":"208c570bb8d4298e4d6cd5ad4abe80b743ff9ff4231cf218d184825a8499609d","dates":{"added":"2026-04-08","updated":"2026-04-08"}},
-    {"id":"527d6abd933f","name":"YT_Circle.png","src":"images/Apps/YT_Circle.png","folder":"Apps","ext":"png","dpi":"37.789999999999999147","bit_depth":"8","kb":22.77,"hash":"527d6abd933fc7019764b9af16c36a9dbc02db96819b3b9d1a44f7df15d7105c","dates":{"added":"2026-04-08","updated":"2026-04-08"}},
+    {"id":"1f53d232fbe7","name":"YouTube.png","src":"images/Apps/YouTube.png","folder":"Apps","ext":"png","dpi":"37.789999999999999147","bit_depth":"8","kb":34.16,"hash":"1f53d232fbe794c759ab4f914c20b4565de99828bb862da3efceeddc3a7808a9","dates":{"added":"2026-04-22","updated":"2026-04-22"}},
+    {"id":"b6d3c8086013","name":"YouTube_Circle.png","src":"images/Apps/YouTube_Circle.png","folder":"Apps","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":15.55,"hash":"b6d3c80860137107e3c94e52ffb693d594653841d8d2928eb6ee3f78e7a60658","dates":{"added":"2026-04-22","updated":"2026-04-22"}},
     {"id":"b91115b7c07d","name":"Yt-Music.png","src":"images/Apps/Yt-Music.png","folder":"Apps","ext":"png","dpi":"72","bit_depth":"8","kb":23.97,"hash":"b91115b7c07dc49e9007522bd8804d7f84119f8c7e30db8837cc0319a3bd225c","dates":{"added":"2026-04-08","updated":"2026-04-08"}},
     {"id":"fbcfe2609fdf","name":"Zong.png","src":"images/Apps/Zong.png","folder":"Apps","ext":"png","dpi":"72","bit_depth":"8","kb":46.72,"hash":"fbcfe2609fdf6f2408a21c7f11273ef94d083f0e7c74dbfa8cabbd122ab1f669","dates":{"added":"2026-04-08","updated":"2026-04-08"}},
     {"id":"455a2a82285e","name":"blank_FB.png","src":"images/Apps/blank_FB.png","folder":"Apps","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":11.25,"hash":"455a2a82285e415e2c07768f39acd4b2c81de3c327a9dbbd9c3e02e9bda0d771","dates":{"added":"2026-04-08","updated":"2026-04-08"}},
