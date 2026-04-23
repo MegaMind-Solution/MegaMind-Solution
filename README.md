@@ -44,7 +44,7 @@ Passionate about coding, innovation, and building solutions that matter.
 ---  
   
 ## 👑 Founder Of  
-🚀 **MicroResearch Corporation**    
+🚀 **MainRoute Core**    
 🎬 **MindRise Designs**    
 🤖 **MegaMind-Solution**  
   
@@ -55,8 +55,8 @@ Passionate about coding, innovation, and building solutions that matter.
   <tr>  
     <td align="center">  
       <a href="https://github.com/MegaMind-Solution" target="_blank">  
-        <img src="./images/M Ramzan Ch/MRc Official Gear Logo.png" alt="MicroResearch Corporation" width="100"/><br/>  
-        <strong>MicroResearch Corporation</strong>  
+        <img src="./images/M Ramzan Ch/MRc Official Gear Logo.png" alt="MainRoute Core" width="100"/><br/>  
+        <strong>MainRoute Core</strong>  
       </a>  
     </td>  
     <td align="center">  
@@ -146,7 +146,7 @@ Passionate about coding, innovation, and building solutions that matter.
 ## 🚀 Top Repositories
 - [**MegaMind-Solution**](https://github.com/MegaMind-Solution/MegaMind-Solution) - Config files for my GitHub profile.
 - [**Pro-Profiles**](https://github.com/MegaMind-Solution/Pro-Profiles) – Power up your GitHub profile with awesome readmes and automations!
-- [**MRamzanCh**](https://mramzanch.blogspot.com/) – My Blogget and GitHub Portfolio page! 
+- [**MRamzanCh**](https://mramzanch.blogspot.com/) – My Portfolio page! 
 - [**My_Modes**](https://github.com/MegaMind-Solution/My_Modes) – Explore my custom modes, tools, and productivity boosters.  
 - [**DownTube_Vip_Mod_Of_Snaptube**](https://github.com/MegaMind-Solution/DownTube_Vip_Mod_Of_Snaptube) – A revamped experience for video lovers!  
 - [**Recordit-best-screen-recoder**](https://github.com/MegaMind-Solution/Recordit-best-screen-recoder) – Capture your screen with ease and efficiency.  
@@ -159,7 +159,7 @@ Passionate about coding, innovation, and building solutions that matter.
   <a href="https://facebook.com/rm4814691" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" style="margin:auto 10px;" width="40" alt="Facebook"/></a>  
   <a href="https://instagram.com/rm4814691" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" style="margin:auto 10px;" width="40" alt="Instagram"/></a>  
   <a href="https://pk.linkedin.com/in/mramzanch" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="margin:auto 10px;" width="40" alt="LinkedIn"/></a>  
-  <a href="https://MicroResearch.co" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="40" style="margin:auto 10px;" alt="Website"/></a>  
+  <a href="https://MainRoute-Core.github.io.co" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="40" style="margin:auto 10px;" alt="Website"/></a>  
   <a href="mailto:mms@mrc.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" style="margin:auto 10px;" width="40" alt="Email"/></a>  
 </p>  
   
