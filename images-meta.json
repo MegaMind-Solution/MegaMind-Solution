@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-04-22T13:26:58.061Z",
-  "total": 244,
+  "generated_at": "2026-04-23T13:07:59.963Z",
+  "total": 246,
   "duplicates": 1
 ,
   "images": [
@@ -141,6 +141,7 @@
     {"id":"38f915b68f83","name":"CALL.png","src":"images/Extensons Icons/CALL.png","folder":"Extensons Icons","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":5.76,"hash":"38f915b68f832e237f81e57df1cb4443cb086a2e554e9a205dc59749e4108677","dates":{"added":"2026-04-08","updated":"2026-04-08"}},
     {"id":"714efb73720c","name":"Catch sreen.png","src":"images/Extensons Icons/Catch sreen.png","folder":"Extensons Icons","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":19.49,"hash":"714efb73720c3d659663c1f79164d6b381079b9d70bf26dcbcf7f7999f1704fa","dates":{"added":"2026-04-08","updated":"2026-04-08"}},
     {"id":"81e08de5cda1","name":"Chrome App Launcher.png","src":"images/Extensons Icons/Chrome App Launcher.png","folder":"Extensons Icons","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":2.17,"hash":"81e08de5cda1569b209156b070877b45b6f8bf09331fc0e1da92626b6066e868","dates":{"added":"2026-04-08","updated":"2026-04-08"}},
+    {"id":"abe12cae3e70","name":"Cool Refresh.png","src":"images/Extensons Icons/Cool Refresh.png","folder":"Extensons Icons","ext":"png","dpi":"72","bit_depth":"8","kb":177.25,"hash":"abe12cae3e70391baa28f5d17486279ad668a367b69af4534af35df594c465d1","dates":{"added":"2026-04-23","updated":"2026-04-23"}},
     {"id":"0c877ab07fcb","name":"DashX.png","src":"images/Extensons Icons/DashX.png","folder":"Extensons Icons","ext":"png","dpi":"37.799999999999997158","bit_depth":"8","kb":13.64,"hash":"0c877ab07fcb761e66562c9ea62555391f11b568c06fd92a516b7c858005584e","dates":{"added":"2026-04-08","updated":"2026-04-08"}},
     {"id":"938550129490","name":"DocEdit.png","src":"images/Extensons Icons/DocEdit.png","folder":"Extensons Icons","ext":"png","dpi":"39.369999999999997442","bit_depth":"8","kb":6.05,"hash":"938550129490175bf71e50a558976eeb0615814e8362582a073a9d7c380e3ff1","dates":{"added":"2026-04-08","updated":"2026-04-08"}},
     {"id":"3b840c3f29c6","name":"Flash Dark.png","src":"images/Extensons Icons/Edits/Flash Dark.png","folder":"Extensons Icons/Edits","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":4.62,"hash":"3b840c3f29c6759013fee1bee61e47ac0ba267fd394d20e5819679232b8cc239","dates":{"added":"2026-04-08","updated":"2026-04-08"}},
@@ -159,6 +160,7 @@
     {"id":"a1c29917b72b","name":"CALL.svg","src":"images/Extensons Icons/SVGs/CALL.svg","folder":"Extensons Icons/SVGs","ext":"svg","dpi":"unknown","bit_depth":"unknown","kb":8.49,"hash":"a1c29917b72b4a429847fdb5c58b251352972e11fbee81c23472c6356c57fc7e","dates":{"added":"2026-04-08","updated":"2026-04-08"}},
     {"id":"9205227b4f76","name":"Catch sreen.svg","src":"images/Extensons Icons/SVGs/Catch sreen.svg","folder":"Extensons Icons/SVGs","ext":"svg","dpi":"unknown","bit_depth":"unknown","kb":2.63,"hash":"9205227b4f7688d0384b40779ee4cf4b0485892931a4f3ea6b4c0f0e21114164","dates":{"added":"2026-04-08","updated":"2026-04-08"}},
     {"id":"525738a219fe","name":"Chrome App Launcher.svg","src":"images/Extensons Icons/SVGs/Chrome App Launcher.svg","folder":"Extensons Icons/SVGs","ext":"svg","dpi":"unknown","bit_depth":"unknown","kb":5.75,"hash":"525738a219fe72069d78d0f341673765de7d515e695497dff52321a00155d909","dates":{"added":"2026-04-08","updated":"2026-04-08"}},
+    {"id":"d909c19e6112","name":"Cool Refresh.svg","src":"images/Extensons Icons/SVGs/Cool Refresh.svg","folder":"Extensons Icons/SVGs","ext":"svg","dpi":"72","bit_depth":"16","kb":0.3,"hash":"d909c19e6112713751e0609fd09a0191d56a6ca702e1017a2202d56f7dcce86d","dates":{"added":"2026-04-23","updated":"2026-04-23"}},
     {"id":"5c944485d18f","name":"DashX.svg","src":"images/Extensons Icons/SVGs/DashX.svg","folder":"Extensons Icons/SVGs","ext":"svg","dpi":"72","bit_depth":"16","kb":0.86,"hash":"5c944485d18fa55f471a614999acf0a4d8a9ee81e8d468a90d10b131a25b97ab","dates":{"added":"2026-04-08","updated":"2026-04-08"}},
     {"id":"a4939558f7d3","name":"DocEdit.svg","src":"images/Extensons Icons/SVGs/DocEdit.svg","folder":"Extensons Icons/SVGs","ext":"svg","dpi":"72","bit_depth":"16","kb":35.28,"hash":"a4939558f7d326f886870ea76e04557523b3152909a0eab42838e434ee2760ef","dates":{"added":"2026-04-08","updated":"2026-04-08"}},
     {"id":"c7b61160db81","name":"Free Cursor 3.0.svg","src":"images/Extensons Icons/SVGs/Free Cursor 3.0.svg","folder":"Extensons Icons/SVGs","ext":"svg","dpi":"72","bit_depth":"16","kb":9.08,"hash":"c7b61160db81ae8dbe41db80d3a90e723a1b045a94e69ee7161589d53f1b39d7","dates":{"added":"2026-04-08","updated":"2026-04-08"}},
