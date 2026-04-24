@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-04-23T13:07:59.963Z",
-  "total": 246,
+  "generated_at": "2026-04-24T16:57:17.508Z",
+  "total": 249,
   "duplicates": 1
 ,
   "images": [
@@ -195,6 +195,9 @@
     {"id":"9a2ec96492ce","name":"MR-MRamzanCh New Time New Look_004.png","src":"images/M Ramzan Ch/MR-MRamzanCh New Time New Look_004.png","folder":"M Ramzan Ch","ext":"png","dpi":"72","bit_depth":"8","kb":23.41,"hash":"9a2ec96492cebc1fb12c63e603a4264849e305ec8e69d6bbd068c551680cddef","dates":{"added":"2026-04-08","updated":"2026-04-08"}},
     {"id":"492661fc4ea4","name":"MR-MRamzanCh New Time New Look_005.png","src":"images/M Ramzan Ch/MR-MRamzanCh New Time New Look_005.png","folder":"M Ramzan Ch","ext":"png","dpi":"72","bit_depth":"8","kb":23.87,"hash":"492661fc4ea46a4028bde209eb062ccd7759436fdaf57bc5ae0e92b14757bfa3","dates":{"added":"2026-04-08","updated":"2026-04-08"}},
     {"id":"122fd18bf780","name":"MR-MRamzanCh New Time New Look_006.png","src":"images/M Ramzan Ch/MR-MRamzanCh New Time New Look_006.png","folder":"M Ramzan Ch","ext":"png","dpi":"72","bit_depth":"8","kb":22.61,"hash":"122fd18bf78090c3f7298a920116efccf343e5440358250e5f00cda662b8dbd3","dates":{"added":"2026-04-08","updated":"2026-04-08"}},
+    {"id":"6f73374c79ad","name":"MRC Nuca Lottie.svg","src":"images/M Ramzan Ch/MRC Nuca Lottie.svg","folder":"M Ramzan Ch","ext":"svg","dpi":"72","bit_depth":"16","kb":7.34,"hash":"6f73374c79ad4db181349ed95193e3676d578feeb900c9ab3d2628d36de0027b","dates":{"added":"2026-04-24","updated":"2026-04-24"}},
+    {"id":"00a7b980b264","name":"MRC Nuca Static.svg","src":"images/M Ramzan Ch/MRC Nuca Static.svg","folder":"M Ramzan Ch","ext":"svg","dpi":"72","bit_depth":"16","kb":6.4,"hash":"00a7b980b264497884d0589f228ed84d7f4764498bb4b759b0c62326770a1212","dates":{"added":"2026-04-24","updated":"2026-04-24"}},
+    {"id":"fdeaf709fb6c","name":"MRC Nuca.png","src":"images/M Ramzan Ch/MRC Nuca.png","folder":"M Ramzan Ch","ext":"png","dpi":"72","bit_depth":"8","kb":365.19,"hash":"fdeaf709fb6cf85f631169ac6b0418a549a96d8e2b9569424e831c3524146d61","dates":{"added":"2026-04-24","updated":"2026-04-24"}},
     {"id":"fa865b58f8d0","name":"MRc Branding.png","src":"images/M Ramzan Ch/MRc Branding.png","folder":"M Ramzan Ch","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":573.37,"hash":"fa865b58f8d0964f052706423bcb81129cf1e54c222779cdd1c3fced0b8a2430","dates":{"added":"2026-04-08","updated":"2026-04-08"}},
     {"id":"11d0af81e40e","name":"MRc Official Gear Logo.png","src":"images/M Ramzan Ch/MRc Official Gear Logo.png","folder":"M Ramzan Ch","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":370.32,"hash":"11d0af81e40ed8d316edbbed9acf73940e724eac1ace12328092cece9ec251a3","dates":{"added":"2026-04-08","updated":"2026-04-08"}},
     {"id":"411fc4556229","name":"MRc Official Gear Logo 000.png","src":"images/M Ramzan Ch/MRc Official Gear Logos/MRc Official Gear Logo 000.png","folder":"M Ramzan Ch/MRc Official Gear Logos","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":388.2,"hash":"411fc45562291ea340c934d3bb1f3ffff20f81decbc7e37f10e61913e9ddb65f","dates":{"added":"2026-04-08","updated":"2026-04-08"}},
