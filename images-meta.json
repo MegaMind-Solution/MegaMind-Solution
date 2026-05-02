@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-05-02T15:47:46.373Z",
+  "generated_at": "2026-05-02T15:48:03.128Z",
   "total": 247,
   "duplicates": 1
 ,
@@ -224,7 +224,7 @@
     {"id":"38f915b68f83","name":"CALL.png","src":"images/WebAndExtensonsIcons/CALL.png","folder":"WebAndExtensonsIcons","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":5.76,"hash":"38f915b68f832e237f81e57df1cb4443cb086a2e554e9a205dc59749e4108677","dates":{"added":"2026-04-08","updated":"2026-04-25"}},
     {"id":"714efb73720c","name":"Catch Screen.png","src":"images/WebAndExtensonsIcons/Catch Screen.png","folder":"WebAndExtensonsIcons","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":19.49,"hash":"714efb73720c3d659663c1f79164d6b381079b9d70bf26dcbcf7f7999f1704fa","dates":{"added":"2026-04-08","updated":"2026-05-02"}},
     {"id":"81e08de5cda1","name":"Chrome App Launcher.png","src":"images/WebAndExtensonsIcons/Chrome App Launcher.png","folder":"WebAndExtensonsIcons","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":2.17,"hash":"81e08de5cda1569b209156b070877b45b6f8bf09331fc0e1da92626b6066e868","dates":{"added":"2026-04-08","updated":"2026-04-25"}},
-    {"id":"abe12cae3e70","name":"Cool Refresh.png","src":"images/WebAndExtensonsIcons/Cool Refresh.png","folder":"WebAndExtensonsIcons","ext":"png","dpi":"72","bit_depth":"8","kb":177.25,"hash":"abe12cae3e70391baa28f5d17486279ad668a367b69af4534af35df594c465d1","dates":{"added":"2026-04-23","updated":"2026-04-25"}},
+    {"id":"aa5e2d9eb85f","name":"Cool Refresh.png","src":"images/WebAndExtensonsIcons/Cool Refresh.png","folder":"WebAndExtensonsIcons","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":35.54,"hash":"aa5e2d9eb85f825c57cebecdc92c2f9a26e925b85f538e52ef2152e224c68550","dates":{"added":"2026-04-23","updated":"2026-05-02"}},
     {"id":"0c877ab07fcb","name":"DashX.png","src":"images/WebAndExtensonsIcons/DashX.png","folder":"WebAndExtensonsIcons","ext":"png","dpi":"37.799999999999997158","bit_depth":"8","kb":13.64,"hash":"0c877ab07fcb761e66562c9ea62555391f11b568c06fd92a516b7c858005584e","dates":{"added":"2026-04-08","updated":"2026-04-25"}},
     {"id":"00f8732bce82","name":"Device.css.png","src":"images/WebAndExtensonsIcons/Device.css.png","folder":"WebAndExtensonsIcons","ext":"png","dpi":"72","bit_depth":"8","kb":19.8,"hash":"00f8732bce82bfaa17ea3696047b5084f5f17cd8103d34d8f1acb2cd0f3067a3","dates":{"added":"2026-04-29","updated":"2026-04-29"}},
     {"id":"938550129490","name":"DocEdit.png","src":"images/WebAndExtensonsIcons/DocEdit.png","folder":"WebAndExtensonsIcons","ext":"png","dpi":"39.369999999999997442","bit_depth":"8","kb":6.05,"hash":"938550129490175bf71e50a558976eeb0615814e8362582a073a9d7c380e3ff1","dates":{"added":"2026-04-08","updated":"2026-04-25"}},
