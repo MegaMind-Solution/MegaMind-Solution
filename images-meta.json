@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-05-02T15:48:03.128Z",
+  "generated_at": "2026-05-05T11:09:11.996Z",
   "total": 247,
   "duplicates": 1
 ,
@@ -211,7 +211,7 @@
     {"id":"98d8bca7fcb7","name":"Img To SVG.svg","src":"images/WebAndExtensonsIcons/.SVGs/Img To SVG.svg","folder":"WebAndExtensonsIcons/.SVGs","ext":"svg","dpi":"unknown","bit_depth":"unknown","kb":11.53,"hash":"98d8bca7fcb7edbfa6d7284334ab39b8a65f57203d83cb5d78d4635d3c0c153d","dates":{"added":"2026-04-08","updated":"2026-04-25"}},
     {"id":"8396ff7d0bca","name":"LogoiT.svg","src":"images/WebAndExtensonsIcons/.SVGs/LogoiT.svg","folder":"WebAndExtensonsIcons/.SVGs","ext":"svg","dpi":"unknown","bit_depth":"unknown","kb":0.31,"hash":"8396ff7d0bcac3e3ea0423f65216cb4b4c9dbc6f236623980525db4627691692","dates":{"added":"2026-04-29","updated":"2026-04-29"}},
     {"id":"0228f4b1e112","name":"Play Onyx.svg","src":"images/WebAndExtensonsIcons/.SVGs/Play Onyx.svg","folder":"WebAndExtensonsIcons/.SVGs","ext":"svg","dpi":"72","bit_depth":"16","kb":35.31,"hash":"0228f4b1e112bbb5d8f49a32b3ac33da2d3e3e5fb2abd3075bb85f5200384fa9","dates":{"added":"2026-04-08","updated":"2026-04-25"}},
-    {"id":"525b361be738","name":"QR SnG.svg","src":"images/WebAndExtensonsIcons/.SVGs/QR SnG.svg","folder":"WebAndExtensonsIcons/.SVGs","ext":"svg","dpi":"72","bit_depth":"16","kb":5.36,"hash":"525b361be7387e4448dc096718a2087ed51d384bfa83f36cf7e3d89eb2bb8e90","dates":{"added":"2026-04-08","updated":"2026-04-29"}},
+    {"id":"d1fec3593efa","name":"QR SnG.svg","src":"images/WebAndExtensonsIcons/.SVGs/QR SnG.svg","folder":"WebAndExtensonsIcons/.SVGs","ext":"svg","dpi":"72","bit_depth":"16","kb":0.61,"hash":"d1fec3593efa33c57cb399ed919cb22c761047a10132b6f01c5ef3bb07726186","dates":{"added":"2026-04-08","updated":"2026-05-05"}},
     {"id":"2b6c7e772a02","name":"Shield Authenticator.svg","src":"images/WebAndExtensonsIcons/.SVGs/Shield Authenticator.svg","folder":"WebAndExtensonsIcons/.SVGs","ext":"svg","dpi":"72","bit_depth":"16","kb":52.11,"hash":"2b6c7e772a0298c0149a1b733a3b6d3c7f22401976204d8c0edbf00f6ba5a1e1","dates":{"added":"2026-04-18","updated":"2026-04-25"}},
     {"id":"557ea9b624b2","name":"TikVid Downloader.svg","src":"images/WebAndExtensonsIcons/.SVGs/TikVid Downloader.svg","folder":"WebAndExtensonsIcons/.SVGs","ext":"svg","dpi":"unknown","bit_depth":"unknown","kb":2.47,"hash":"557ea9b624b292de332547893a0cf7dc9b42cd3a30c9501b76c026942fa37174","dates":{"added":"2026-04-08","updated":"2026-04-25"}},
     {"id":"892050976ec8","name":"Tools.svg","src":"images/WebAndExtensonsIcons/.SVGs/Tools.svg","folder":"WebAndExtensonsIcons/.SVGs","ext":"svg","dpi":"72","bit_depth":"16","kb":0.28,"hash":"892050976ec893a1f60b0c68debf7cef8a5388f14af494fc8fe0fa2dfa055ea1","dates":{"added":"2026-04-30","updated":"2026-04-30"}},
