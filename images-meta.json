@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-05-05T15:48:05.220Z",
+  "generated_at": "2026-05-09T19:14:31.999Z",
   "total": 247,
   "duplicates": 1
 ,
@@ -176,7 +176,7 @@
     {"id":"a146b3a4a3fb","name":"MRD Branding.png","src":"images/MRamzanCh/MRD Branding.png","folder":"MRamzanCh","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":600.87,"hash":"a146b3a4a3fbde055a0018c07986a09aad81d05fcf435a9f32ab6cf0254dea27","dates":{"added":"2026-04-25","updated":"2026-04-25"}},
     {"id":"506b99a39b13","name":"MRD Fortha.png","src":"images/MRamzanCh/MRD Fortha.png","folder":"MRamzanCh","ext":"png","dpi":"72","bit_depth":"8","kb":253.16,"hash":"506b99a39b13ee03191f0b039cf59f2ae14ccefe9501877ba19f8b31e3fe907a","dates":{"added":"2026-04-25","updated":"2026-04-25"}},
     {"id":"ce7e5ea3927b","name":"MRD Stacam.png","src":"images/MRamzanCh/MRD Stacam.png","folder":"MRamzanCh","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":204.95,"hash":"ce7e5ea3927b2acf807d8362bae3f418e2318902af0f05f44b3b5cac53c14b97","dates":{"added":"2026-04-25","updated":"2026-04-25"}},
-    {"id":"ce13b7339a8f","name":"MRc Branding.png","src":"images/MRamzanCh/MRc Branding.png","folder":"MRamzanCh","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":336.31,"hash":"ce13b7339a8f61a185458b087c229f52db71bdf5c3075d8cdf3ca71b9a06f220","dates":{"added":"2026-04-08","updated":"2026-04-30"}},
+    {"id":"6007ba498198","name":"MRc Branding.png","src":"images/MRamzanCh/MRc Branding.png","folder":"MRamzanCh","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":311.65,"hash":"6007ba4981987dfc403d375efd0c6ced41d39c1a480538303fafec7f7d346c63","dates":{"added":"2026-04-08","updated":"2026-05-10"}},
     {"id":"7f184a0f986a","name":"MRc_DarkBlueOcean.png","src":"images/MRamzanCh/MRc_DarkBlueOcean.png","folder":"MRamzanCh","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":18.07,"hash":"7f184a0f986a1593ae54cc62e3077af1b133b04bf0f10c4b7a47a2d292c0431a","dates":{"added":"2026-04-25","updated":"2026-04-25"}},
     {"id":"f32eb7a35eab","name":"MRc_LightBlue.png","src":"images/MRamzanCh/MRc_LightBlue.png","folder":"MRamzanCh","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":18.52,"hash":"f32eb7a35eab5404d1cc1c0a6089b17d9521e93fcacae4174a570b64cecb7e70","dates":{"added":"2026-04-25","updated":"2026-04-25"}},
     {"id":"19a9e26d4038","name":"MRc_LiteTeal.png","src":"images/MRamzanCh/MRc_LiteTeal.png","folder":"MRamzanCh","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":16.3,"hash":"19a9e26d403897beeffacceba44d207bfce7a8c7d2e6010fc9482fcfe46edc45","dates":{"added":"2026-04-25","updated":"2026-04-25"}},
