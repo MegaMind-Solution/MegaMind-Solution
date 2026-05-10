@@ -1,4 +1,4 @@
-[![Banner  image](./images/M%20Ramzan%20Ch/New%20Time%20New%20Look%20New%20GitUb%20Banner.png)](https//github.com/MegaMind-Solution)
+[![Banner  image](https://raw.githubusercontent.com/MegaMind-Solution/MegaMind-Solution/main/images/MRamzanCh/New%20Time%20New%20Look%20New%20Gitub%20Banner.png)](https//github.com/MegaMind-Solution)
   
 
 <p align="center" style="border-radius:50%;">  
