@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-06-02T00:54:45.248Z",
-  "total": 255,
+  "generated_at": "2026-06-04T00:57:07.154Z",
+  "total": 256,
   "duplicates": 1
 ,
   "images": [
@@ -161,8 +161,9 @@
     {"id":"dfe2e8431203","name":"M Ramzan Ch New Time New Look_00006.png","src":"images/MRamzanCh/.MRamzanCh/M Ramzan Ch New Time New Look_00006.png","folder":"MRamzanCh/.MRamzanCh","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":27.34,"hash":"dfe2e84312037d50f169110b67f0cab75909b520633ffd563cfbfe65dffcb48b","dates":{"added":"2026-04-25","updated":"2026-04-25"}},
     {"id":"07c53c9b4757","name":"M Ramzan Ch New Time New Look_00007.png","src":"images/MRamzanCh/.MRamzanCh/M Ramzan Ch New Time New Look_00007.png","folder":"MRamzanCh/.MRamzanCh","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":27.4,"hash":"07c53c9b4757246c033f828f1d04e63771872c3fb4000ae95ad82476ffb06922","dates":{"added":"2026-04-25","updated":"2026-04-25"}},
     {"id":"b3e5ccb1956b","name":"M Ramzan Ch New Time New Look_00008.png","src":"images/MRamzanCh/.MRamzanCh/M Ramzan Ch New Time New Look_00008.png","folder":"MRamzanCh/.MRamzanCh","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":19.78,"hash":"b3e5ccb1956b93af047d8181ae15aed02f59279e9260e5cd8871e71374759727","dates":{"added":"2026-04-25","updated":"2026-04-25"}},
-    {"id":"6f73374c79ad","name":"MRC Nuca Lottie.svg","src":"images/MRamzanCh/.SVG/MRC Nuca Lottie.svg","folder":"MRamzanCh/.SVG","ext":"svg","dpi":"72","bit_depth":"16","kb":7.34,"hash":"6f73374c79ad4db181349ed95193e3676d578feeb900c9ab3d2628d36de0027b","dates":{"added":"2026-04-25","updated":"2026-04-25"}},
-    {"id":"00a7b980b264","name":"MRC Nuca Static.svg","src":"images/MRamzanCh/.SVG/MRC Nuca Static.svg","folder":"MRamzanCh/.SVG","ext":"svg","dpi":"72","bit_depth":"16","kb":6.4,"hash":"00a7b980b264497884d0589f228ed84d7f4764498bb4b759b0c62326770a1212","dates":{"added":"2026-04-25","updated":"2026-04-25"}},
+    {"id":"fb7734eb2886","name":"MRC Nuca CSS Lottie.svg","src":"images/MRamzanCh/.SVG/MRC Nuca CSS Lottie.svg","folder":"MRamzanCh/.SVG","ext":"svg","dpi":"72","bit_depth":"16","kb":5.61,"hash":"fb7734eb288610fa7b9f9fc8dbdcea4db1b8ca9f71bc4d934672abac67f89a8f","dates":{"added":"2026-06-02","updated":"2026-06-02"}},
+    {"id":"a5c3fe7ceac8","name":"MRC Nuca Tag Lottie.svg","src":"images/MRamzanCh/.SVG/MRC Nuca Tag Lottie.svg","folder":"MRamzanCh/.SVG","ext":"svg","dpi":"unknown","bit_depth":"unknown","kb":5.8,"hash":"a5c3fe7ceac876f2a376d80f71653ea6ebeb64b4f1d0f724ca393f25a8f9a292","dates":{"added":"2026-06-02","updated":"2026-06-02"}},
+    {"id":"45b6c7e0f328","name":"MRC Nuca.svg","src":"images/MRamzanCh/.SVG/MRC Nuca.svg","folder":"MRamzanCh/.SVG","ext":"svg","dpi":"72","bit_depth":"16","kb":4.7,"hash":"45b6c7e0f328f53dc58d96ed668db0f3861bbe02030f2233d2aa1a91845d7e04","dates":{"added":"2026-06-02","updated":"2026-06-02"}},
     {"id":"c60a86c45513","name":"Do What Is Good Not What Is Easy Facebook Cover.png","src":"images/MRamzanCh/Do What Is Good Not What Is Easy Facebook Cover.png","folder":"MRamzanCh","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":2585.25,"hash":"c60a86c4551357a74455d93634dcf5619ae611d83d82cdf7d4adad1b80f3be31","dates":{"added":"2026-04-25","updated":"2026-04-25"}},
     {"id":"d7c6397fccf3","name":"Do What Is good-New Time New Look Facebook Cover.png","src":"images/MRamzanCh/Do What Is good-New Time New Look Facebook Cover.png","folder":"MRamzanCh","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":337.52,"hash":"d7c6397fccf39512a4bf4a072baab32b3e61bf5f8484d22f0cffb2cf0d1b87f5","dates":{"added":"2026-04-25","updated":"2026-04-25"}},
     {"id":"aa29eae4f02c","name":"MR-MRamzanCh Do What That is Good.png","src":"images/MRamzanCh/MR-MRamzanCh Do What That is Good.png","folder":"MRamzanCh","ext":"png","dpi":"37.799999999999997158","bit_depth":"8","kb":1022.24,"hash":"aa29eae4f02c60e1455d37ff247268daa0be07d2fb94926a5ab78ec576022351","dates":{"added":"2026-04-25","updated":"2026-04-25"}},
