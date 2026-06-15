@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-13T21:35:33.350Z",
+  "generated_at": "2026-06-15T19:34:18.989Z",
   "total": 266,
   "duplicates": 1
 ,
@@ -173,10 +173,10 @@
     {"id":"cd41bfdc2a76","name":"MR-MRamzanCh New Time New Look_004.png","src":"images/MRamzanCh/MR-MRamzanCh New Time New Look_004.png","folder":"MRamzanCh","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":25.33,"hash":"cd41bfdc2a76779fdf876506f983e6553f03389f83c493d09abf5b3a2e2bd0f6","dates":{"added":"2026-04-25","updated":"2026-04-25"}},
     {"id":"ae31ec27b969","name":"MR-MRamzanCh New Time New Look_005.png","src":"images/MRamzanCh/MR-MRamzanCh New Time New Look_005.png","folder":"MRamzanCh","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":26.68,"hash":"ae31ec27b9695e4527fd6697ea4a0f380757468a23bb57d9ec4557e190da92a5","dates":{"added":"2026-04-25","updated":"2026-04-25"}},
     {"id":"585ffb718c5a","name":"MR-MRamzanCh New Time New Look_006.png","src":"images/MRamzanCh/MR-MRamzanCh New Time New Look_006.png","folder":"MRamzanCh","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":25.75,"hash":"585ffb718c5aadf54cecf1fb72ae3dbc5756be86f59a4f88801b79d4c1ed8673","dates":{"added":"2026-04-25","updated":"2026-04-25"}},
-    {"id":"ed35d8e6e593","name":"MRC Bux.png","src":"images/MRamzanCh/MRC Bux.png","folder":"MRamzanCh","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":133.76,"hash":"ed35d8e6e593af6f35349bd735c36bfb3127b82a7247218ef7a28704b23ef55e","dates":{"added":"2026-06-01","updated":"2026-06-01"}},
+    {"id":"1b12febdd916","name":"MRC Bux.png","src":"images/MRamzanCh/MRC Bux.png","folder":"MRamzanCh","ext":"png","dpi":"72","bit_depth":"8","kb":191.05,"hash":"1b12febdd91636f1172c4c558f26727c1f3a4a5f52b42a70909fd2d4225c04b3","dates":{"added":"2026-06-01","updated":"2026-06-16"}},
     {"id":"9996e4657830","name":"MRC Nuca.png","src":"images/MRamzanCh/MRC Nuca.png","folder":"MRamzanCh","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":260.88,"hash":"9996e4657830d984169c4ddc4203760ee8fd5f01a5caa8d12d0fcfc47f768f7b","dates":{"added":"2026-04-25","updated":"2026-06-01"}},
     {"id":"32304b9d9cd6","name":"MRC_Branding_Text.png","src":"images/MRamzanCh/MRC_Branding_Text.png","folder":"MRamzanCh","ext":"png","dpi":"72","bit_depth":"8","kb":146.81,"hash":"32304b9d9cd625925ace8fa398fffc57e6360f9e69c12f581aa62fe98753be71","dates":{"added":"2026-06-01","updated":"2026-06-01"}},
-    {"id":"f19d839fd320","name":"MRC_Bux.png","src":"images/MRamzanCh/MRC_Bux.png","folder":"MRamzanCh","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":66.23,"hash":"f19d839fd32093ff20366f56cc3c2e360d34a8492db0b36ef15b3784c343391c","dates":{"added":"2026-06-01","updated":"2026-06-01"}},
+    {"id":"5de2447d0a8f","name":"MRC_Bux.png","src":"images/MRamzanCh/MRC_Bux.png","folder":"MRamzanCh","ext":"png","dpi":"72","bit_depth":"8","kb":81.91,"hash":"5de2447d0a8f14b04692d715cf617a68b89cccfd210cad4278dfc52b8ff3127e","dates":{"added":"2026-06-01","updated":"2026-06-16"}},
     {"id":"b6e4a672dd88","name":"MRC_Nuca.png","src":"images/MRamzanCh/MRC_Nuca.png","folder":"MRamzanCh","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":72.33,"hash":"b6e4a672dd88dd26393944d85c2beb8dfa3a07fc15891e578635d2da50d3b930","dates":{"added":"2026-06-01","updated":"2026-06-01"}},
     {"id":"a146b3a4a3fb","name":"MRD Branding.png","src":"images/MRamzanCh/MRD Branding.png","folder":"MRamzanCh","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":600.87,"hash":"a146b3a4a3fbde055a0018c07986a09aad81d05fcf435a9f32ab6cf0254dea27","dates":{"added":"2026-04-25","updated":"2026-04-25"}},
     {"id":"506b99a39b13","name":"MRD Fortha.png","src":"images/MRamzanCh/MRD Fortha.png","folder":"MRamzanCh","ext":"png","dpi":"72","bit_depth":"8","kb":253.16,"hash":"506b99a39b13ee03191f0b039cf59f2ae14ccefe9501877ba19f8b31e3fe907a","dates":{"added":"2026-04-25","updated":"2026-04-25"}},
