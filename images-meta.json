@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-06-29T13:05:44.683Z",
-  "total": 280,
+  "generated_at": "2026-07-05T19:25:54.196Z",
+  "total": 282,
   "duplicates": 1
 ,
   "images": [
@@ -205,6 +205,7 @@
     {"id":"9205227b4f76","name":"Catch Screen.svg","src":"images/WebAndExtensonsIcons/.SVGs/Catch Screen.svg","folder":"WebAndExtensonsIcons/.SVGs","ext":"svg","dpi":"unknown","bit_depth":"unknown","kb":2.63,"hash":"9205227b4f7688d0384b40779ee4cf4b0485892931a4f3ea6b4c0f0e21114164","dates":{"added":"2026-04-08","updated":"2026-05-02"}},
     {"id":"525738a219fe","name":"Chrome App Launcher.svg","src":"images/WebAndExtensonsIcons/.SVGs/Chrome App Launcher.svg","folder":"WebAndExtensonsIcons/.SVGs","ext":"svg","dpi":"unknown","bit_depth":"unknown","kb":5.75,"hash":"525738a219fe72069d78d0f341673765de7d515e695497dff52321a00155d909","dates":{"added":"2026-04-08","updated":"2026-04-25"}},
     {"id":"3abc092d9cb7","name":"Color PickUp.svg","src":"images/WebAndExtensonsIcons/.SVGs/Color PickUp.svg","folder":"WebAndExtensonsIcons/.SVGs","ext":"svg","dpi":"unknown","bit_depth":"unknown","kb":7.21,"hash":"3abc092d9cb76c70c1db7aea516a4a5d273a7b6183bdb2452c581a3ec61e70ca","dates":{"added":"2026-06-20","updated":"2026-06-20"}},
+    {"id":"e8b26101fa3b","name":"ColorPickUp.svg","src":"images/WebAndExtensonsIcons/.SVGs/ColorPickUp.svg","folder":"WebAndExtensonsIcons/.SVGs","ext":"svg","dpi":"72","bit_depth":"16","kb":1.39,"hash":"e8b26101fa3b579fd95959dbd62e66bb28d79c30b2441e699fa52637b403011d","dates":{"added":"2026-07-06","updated":"2026-07-06"}},
     {"id":"c7f53ba11842","name":"Cool Refresh.svg","src":"images/WebAndExtensonsIcons/.SVGs/Cool Refresh.svg","folder":"WebAndExtensonsIcons/.SVGs","ext":"svg","dpi":"unknown","bit_depth":"unknown","kb":8.13,"hash":"c7f53ba118423a11d3629760b1673d81cb518e8f279c84de57c05a112610dad8","dates":{"added":"2026-04-23","updated":"2026-05-02"}},
     {"id":"5c944485d18f","name":"DashX.svg","src":"images/WebAndExtensonsIcons/.SVGs/DashX.svg","folder":"WebAndExtensonsIcons/.SVGs","ext":"svg","dpi":"72","bit_depth":"16","kb":0.86,"hash":"5c944485d18fa55f471a614999acf0a4d8a9ee81e8d468a90d10b131a25b97ab","dates":{"added":"2026-04-08","updated":"2026-04-25"}},
     {"id":"b58fc876313f","name":"Dev Tools Console.svg","src":"images/WebAndExtensonsIcons/.SVGs/Dev Tools Console.svg","folder":"WebAndExtensonsIcons/.SVGs","ext":"svg","dpi":"unknown","bit_depth":"unknown","kb":6.23,"hash":"b58fc876313f6ba0db033eee09f6f41ec06919388c42656a0c13e968fd626997","dates":{"added":"2026-06-05","updated":"2026-06-05"}},
@@ -246,6 +247,7 @@
     {"id":"714efb73720c","name":"Catch Screen.png","src":"images/WebAndExtensonsIcons/Catch Screen.png","folder":"WebAndExtensonsIcons","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":19.49,"hash":"714efb73720c3d659663c1f79164d6b381079b9d70bf26dcbcf7f7999f1704fa","dates":{"added":"2026-04-08","updated":"2026-05-02"}},
     {"id":"81e08de5cda1","name":"Chrome App Launcher.png","src":"images/WebAndExtensonsIcons/Chrome App Launcher.png","folder":"WebAndExtensonsIcons","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":2.17,"hash":"81e08de5cda1569b209156b070877b45b6f8bf09331fc0e1da92626b6066e868","dates":{"added":"2026-04-08","updated":"2026-04-25"}},
     {"id":"fcfc677b9fbd","name":"Color PickUp.png","src":"images/WebAndExtensonsIcons/Color PickUp.png","folder":"WebAndExtensonsIcons","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":107.94,"hash":"fcfc677b9fbde4db207d85bdc30149dc115f96db0d24a83b14edeca2ed2273b3","dates":{"added":"2026-06-20","updated":"2026-06-20"}},
+    {"id":"b8cb1551b2e5","name":"ColorPickUp.png","src":"images/WebAndExtensonsIcons/ColorPickUp.png","folder":"WebAndExtensonsIcons","ext":"png","dpi":"72","bit_depth":"8","kb":13.16,"hash":"b8cb1551b2e51f7181e68d190f130763fabcab2ce6d8fc5c643c5387709d2445","dates":{"added":"2026-07-06","updated":"2026-07-06"}},
     {"id":"aa5e2d9eb85f","name":"Cool Refresh.png","src":"images/WebAndExtensonsIcons/Cool Refresh.png","folder":"WebAndExtensonsIcons","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":35.54,"hash":"aa5e2d9eb85f825c57cebecdc92c2f9a26e925b85f538e52ef2152e224c68550","dates":{"added":"2026-04-23","updated":"2026-05-02"}},
     {"id":"0c877ab07fcb","name":"DashX.png","src":"images/WebAndExtensonsIcons/DashX.png","folder":"WebAndExtensonsIcons","ext":"png","dpi":"37.799999999999997158","bit_depth":"8","kb":13.64,"hash":"0c877ab07fcb761e66562c9ea62555391f11b568c06fd92a516b7c858005584e","dates":{"added":"2026-04-08","updated":"2026-04-25"}},
     {"id":"95c1a15557a0","name":"Dev Tools Console.png","src":"images/WebAndExtensonsIcons/Dev Tools Console.png","folder":"WebAndExtensonsIcons","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":29.97,"hash":"95c1a15557a01bf06c28fc6bd129dcf12913e668019530021f1481b04d4c8932","dates":{"added":"2026-05-19","updated":"2026-06-05"}},
