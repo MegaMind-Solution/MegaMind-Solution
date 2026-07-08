@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-07-05T19:25:54.196Z",
-  "total": 282,
+  "generated_at": "2026-07-08T17:22:06.700Z",
+  "total": 284,
   "duplicates": 1
 ,
   "images": [
@@ -227,6 +227,7 @@
     {"id":"1fe2e6e603bc","name":"Onyx IPTV.svg","src":"images/WebAndExtensonsIcons/.SVGs/Onyx IPTV.svg","folder":"WebAndExtensonsIcons/.SVGs","ext":"svg","dpi":"unknown","bit_depth":"unknown","kb":9.8,"hash":"1fe2e6e603bc9eb16a3cbade75ce17788ee8fd6d03b718da0b7a5f05968191cd","dates":{"added":"2026-06-05","updated":"2026-06-05"}},
     {"id":"3a70c3f342e6","name":"PakSigns.svg","src":"images/WebAndExtensonsIcons/.SVGs/PakSigns.svg","folder":"WebAndExtensonsIcons/.SVGs","ext":"svg","dpi":"72","bit_depth":"16","kb":1.18,"hash":"3a70c3f342e6faec5eaf0cfbec54091c978e8e3f4d0f3f41cf7234e36590a444","dates":{"added":"2026-06-22","updated":"2026-06-22"}},
     {"id":"ad5373a26225","name":"Play Onyx.svg","src":"images/WebAndExtensonsIcons/.SVGs/Play Onyx.svg","folder":"WebAndExtensonsIcons/.SVGs","ext":"svg","dpi":"unknown","bit_depth":"unknown","kb":5.57,"hash":"ad5373a26225a60d6fb79244617b38dbaf8afd3a81ba2f51a89ac57f63755de9","dates":{"added":"2026-04-08","updated":"2026-06-05"}},
+    {"id":"15748b409a6e","name":"QR Api.svg","src":"images/WebAndExtensonsIcons/.SVGs/QR Api.svg","folder":"WebAndExtensonsIcons/.SVGs","ext":"svg","dpi":"72","bit_depth":"16","kb":0.43,"hash":"15748b409a6e322fb1fb4ba2b047d1732dfda7ed7467bffc23a5f2eb2ad35a59","dates":{"added":"2026-07-08","updated":"2026-07-08"}},
     {"id":"d1fec3593efa","name":"QR SnG.svg","src":"images/WebAndExtensonsIcons/.SVGs/QR SnG.svg","folder":"WebAndExtensonsIcons/.SVGs","ext":"svg","dpi":"72","bit_depth":"16","kb":0.61,"hash":"d1fec3593efa33c57cb399ed919cb22c761047a10132b6f01c5ef3bb07726186","dates":{"added":"2026-04-08","updated":"2026-05-05"}},
     {"id":"b1e596d19779","name":"Quantix.svg","src":"images/WebAndExtensonsIcons/.SVGs/Quantix.svg","folder":"WebAndExtensonsIcons/.SVGs","ext":"svg","dpi":"unknown","bit_depth":"unknown","kb":4.67,"hash":"b1e596d19779e0b59df9eadf159f59360825cb6340d0e07e74f02c7afd09312b","dates":{"added":"2026-06-07","updated":"2026-06-07"}},
     {"id":"2b6c7e772a02","name":"Shield Authenticator.svg","src":"images/WebAndExtensonsIcons/.SVGs/Shield Authenticator.svg","folder":"WebAndExtensonsIcons/.SVGs","ext":"svg","dpi":"72","bit_depth":"16","kb":52.11,"hash":"2b6c7e772a0298c0149a1b733a3b6d3c7f22401976204d8c0edbf00f6ba5a1e1","dates":{"added":"2026-04-18","updated":"2026-04-25"}},
@@ -269,6 +270,7 @@
     {"id":"cfe2cfc283de","name":"Onyx IPTV.png","src":"images/WebAndExtensonsIcons/Onyx IPTV.png","folder":"WebAndExtensonsIcons","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":28.12,"hash":"cfe2cfc283defc7f2e44921df19628c7f4bbebd51c30384e4ecebb2e8b33a410","dates":{"added":"2026-05-19","updated":"2026-05-19"}},
     {"id":"020362244bb8","name":"PakSigns.png","src":"images/WebAndExtensonsIcons/PakSigns.png","folder":"WebAndExtensonsIcons","ext":"png","dpi":"35.429999999999999716","bit_depth":"8","kb":18.44,"hash":"020362244bb80d5c706d87f7f2f370cc5103f24087f2e6c53edbcb298a2f9b04","dates":{"added":"2026-06-22","updated":"2026-06-22"}},
     {"id":"fe682bae2eb7","name":"Play Onyx.png","src":"images/WebAndExtensonsIcons/Play Onyx.png","folder":"WebAndExtensonsIcons","ext":"png","dpi":"72","bit_depth":"8","kb":41.58,"hash":"fe682bae2eb7bf85f75a46a1700d56836f511f1c2fafa17005a2c0a632948246","dates":{"added":"2026-04-08","updated":"2026-05-19"}},
+    {"id":"6e8702407328","name":"QR Api.png","src":"images/WebAndExtensonsIcons/QR Api.png","folder":"WebAndExtensonsIcons","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":11.37,"hash":"6e87024073285e219e62955dad444f37c972881945fd77fea7073fdacc6c34a9","dates":{"added":"2026-07-08","updated":"2026-07-08"}},
     {"id":"9eef87e44481","name":"QR SnG.png","src":"images/WebAndExtensonsIcons/QR SnG.png","folder":"WebAndExtensonsIcons","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":1.98,"hash":"9eef87e4448123097117146560ff82d66afae69411d2d5df2d92a133f24ed2d5","dates":{"added":"2026-04-08","updated":"2026-04-27"}},
     {"id":"31fcfe0e6843","name":"Quantix.png","src":"images/WebAndExtensonsIcons/Quantix.png","folder":"WebAndExtensonsIcons","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":19.73,"hash":"31fcfe0e6843be41657156c1bcd6c3d05669e17301c859caf151bbe6b54b7bb0","dates":{"added":"2026-06-07","updated":"2026-06-07"}},
     {"id":"74dc7f1cdac7","name":"Shield Authenticator.png","src":"images/WebAndExtensonsIcons/Shield Authenticator.png","folder":"WebAndExtensonsIcons","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":148.57,"hash":"74dc7f1cdac701758e2e92ee90e7df7bd0795eebfbe047fac9b95484e4fb870f","dates":{"added":"2026-04-18","updated":"2026-04-25"}},
