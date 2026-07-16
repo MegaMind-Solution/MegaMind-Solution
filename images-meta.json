@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-07-15T07:57:06.579Z",
-  "total": 286,
+  "generated_at": "2026-07-16T11:31:36.032Z",
+  "total": 287,
   "duplicates": 1
 ,
   "images": [
@@ -39,7 +39,8 @@
     {"id":"53f15f2f7997","name":"A Search.png","src":"images/AppsIcons/GoogleProducts/A Search.png","folder":"AppsIcons/GoogleProducts","ext":"png","dpi":"37.789999999999999147","bit_depth":"8","kb":77.72,"hash":"53f15f2f7997c7327d24494dc390291681aef4e457f6aecc22df85759fd0deee","dates":{"added":"2026-04-18","updated":"2026-04-25"}},
     {"id":"ac81bdf1cb60","name":"AiSearch_Blank.png","src":"images/AppsIcons/GoogleProducts/AiSearch_Blank.png","folder":"AppsIcons/GoogleProducts","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":80.81,"hash":"ac81bdf1cb60bf64a57188d5ba37686749cc346d9590289b7fa039dc676685ca","dates":{"added":"2026-04-18","updated":"2026-04-25"}},
     {"id":"d8c87b17d5c8","name":"AiSearch_Circle.png","src":"images/AppsIcons/GoogleProducts/AiSearch_Circle.png","folder":"AppsIcons/GoogleProducts","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":71.91,"hash":"d8c87b17d5c8cfac7b1145c1f63ca79f3d30f074e970d4c5e380a8e6efc70799","dates":{"added":"2026-04-18","updated":"2026-04-25"}},
-    {"id":"1c0eb5990ef8","name":"AiStudio.png","src":"images/AppsIcons/GoogleProducts/AiStudio.png","folder":"AppsIcons/GoogleProducts","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":17.28,"hash":"1c0eb5990ef81462853264412f897c5228b5135bb6daf06b88a18153664ba5d5","dates":{"added":"2026-04-08","updated":"2026-04-25"}},
+    {"id":"fce776642fe3","name":"AiStudio.png","src":"images/AppsIcons/GoogleProducts/AiStudio.png","folder":"AppsIcons/GoogleProducts","ext":"png","dpi":"72","bit_depth":"8","kb":57.32,"hash":"fce776642fe351843afa508ff5391b5f395eb2346207b0c712837fda72798854","dates":{"added":"2026-04-08","updated":"2026-07-16"}},
+    {"id":"1c0eb5990ef8","name":"AiStudio_Old.png","src":"images/AppsIcons/GoogleProducts/AiStudio_Old.png","folder":"AppsIcons/GoogleProducts","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":17.28,"hash":"1c0eb5990ef81462853264412f897c5228b5135bb6daf06b88a18153664ba5d5","dates":{"added":"2026-04-08","updated":"2026-07-16"}},
     {"id":"4eafc44aff51","name":"Authenticator.png","src":"images/AppsIcons/GoogleProducts/Authenticator.png","folder":"AppsIcons/GoogleProducts","ext":"png","dpi":"72","bit_depth":"8","kb":47.01,"hash":"4eafc44aff511cc87b6f7b7e24840c272afa824c6eb39f54c868679341e0a75e","dates":{"added":"2026-04-08","updated":"2026-04-25"}},
     {"id":"114cbec32820","name":"Authenticator_Blank.png","src":"images/AppsIcons/GoogleProducts/Authenticator_Blank.png","folder":"AppsIcons/GoogleProducts","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":29.82,"hash":"114cbec32820083de5437cb603e559e7dc25acd0afc960b918bc7eac1971eebe","dates":{"added":"2026-04-25","updated":"2026-04-25"}},
     {"id":"77495dfe9062","name":"Authenticator_Circle.png","src":"images/AppsIcons/GoogleProducts/Authenticator_Circle.png","folder":"AppsIcons/GoogleProducts","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":45.15,"hash":"77495dfe9062961a30614a5af5f6625595b18310378ad2d250ef0b36b7da6b68","dates":{"added":"2026-04-25","updated":"2026-04-25"}},
