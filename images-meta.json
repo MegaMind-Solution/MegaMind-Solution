@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-07-16T11:31:36.032Z",
-  "total": 287,
+  "generated_at": "2026-07-18T18:32:26.913Z",
+  "total": 286,
   "duplicates": 1
 ,
   "images": [
@@ -193,7 +193,6 @@
     {"id":"6ff37ef0f6a2","name":"Mera Mustaqbil.png","src":"images/MRamzanCh/Mera Mustaqbil.png","folder":"MRamzanCh","ext":"png","dpi":"72","bit_depth":"8","kb":363.47,"hash":"6ff37ef0f6a270f659c58f2cb0cdae45b2a5adbd2619c1ee135a409dbf8dc322","dates":{"added":"2026-04-08","updated":"2026-04-25"}},
     {"id":"46d84aa809eb","name":"MyWrite Dark and Light.png","src":"images/MRamzanCh/MyWrite Dark and Light.png","folder":"MRamzanCh","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":969.02,"hash":"46d84aa809ebab8e0c32292d544b03413a60bec579aff1abb55d9e906dffdd45","dates":{"added":"2026-04-08","updated":"2026-04-25"}},
     {"id":"dcd9e34eebba","name":"MyWrite Dark and Red.png","src":"images/MRamzanCh/MyWrite Dark and Red.png","folder":"MRamzanCh","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":914.17,"hash":"dcd9e34eebbaae6e1c63c6b86b66721bfa6f05514b93f552dfc76182f5134124","dates":{"added":"2026-04-08","updated":"2026-04-25"}},
-    {"id":"6421e684047e","name":"New Time New Look New Gitub Banner.png","src":"images/MRamzanCh/New Time New Look New Gitub Banner.png","folder":"MRamzanCh","ext":"png","dpi":"37.799999999999997158","bit_depth":"8","kb":492.93,"hash":"6421e684047e2afc5d4e2bb3b0e34e0476b817016b7ccde9ae3eb7dbf6acda1b","dates":{"added":"2026-04-08","updated":"2026-04-25"}},
     {"id":"905710e415fe","name":"Pro Bandey GitHub Logo Black and Golden Modern Neon Green KeyBoard.png","src":"images/MRamzanCh/Pro Bandey GitHub Logo Black and Golden Modern Neon Green KeyBoard.png","folder":"MRamzanCh","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":605.07,"hash":"905710e415fe6cb34d866bdc93f66f07fed604293156b158b662e0ee21f50cc0","dates":{"added":"2026-04-25","updated":"2026-04-25"}},
     {"id":"7e845e67fb88","name":"YtSortlyofficial.png","src":"images/MRamzanCh/YtSortlyofficial.png","folder":"MRamzanCh","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":366.06,"hash":"7e845e67fb88076eae9386088e9eeec2c935de3b8bed3ba8bcced2fea72c52e6","dates":{"added":"2026-04-25","updated":"2026-04-25"}},
     {"id":"f9f29d89d2a7","name":"localthirdparty.png","src":"images/MRamzanCh/localthirdparty.png","folder":"MRamzanCh","ext":"png","dpi":"28.350000000000001421","bit_depth":"8","kb":65.5,"hash":"f9f29d89d2a7f9e396293a676ac8031f93e6c55dc0d95dd183f035ca17710d6a","dates":{"added":"2026-04-25","updated":"2026-04-25"}},
