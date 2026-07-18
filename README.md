@@ -20,7 +20,11 @@
 
 
 
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">
+  
+Hi <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="32">
+
+</h1>
 
 <p align="center">
 A passionate <b>Web Developer</b>, <b>UI Designer</b>, and <b>Open Source Enthusiast</b><br>
