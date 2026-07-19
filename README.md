@@ -1,191 +1,259 @@
-[![Banner  image](https://raw.githubusercontent.com/MegaMind-Solution/MegaMind-Solution/main/images/MRamzanCh/New%20Time%20New%20Look%20New%20Gitub%20Banner.png)](https//github.com/MegaMind-Solution)
-  
-
-<p align="center" style="border-radius:50%;">  
-  <img src="https://avatars.githubusercontent.com/u/191318204" alt="Profile Picture" width="150" style="border-radius:50%; border:4px solid white; margin:-70px 0 0 0;"/>  
-</p>  
-
-<hr>
-
-<p align="center" style="border-radius:50%;">  
-  <img src="https://readme-typing-svg.demolab.com?font=Teko&weight=600&size=45&pause=100&color=F44234&center=true&vCenter=true&multiline=true&width=550&height=200&lines=HI!+%F0%9F%91%8B;I'm+M+Ramzan+Ch;A+Web+Developer+and+Designer." alt="Profile Picture"/>  
-</p> 
-  
-<p align="center" style="margin:-5px 0 0 0">  
-  🌟 <i>"Do what is good, not what is easy."</i> 🌟  
-</p>  
-<p align="center" style="margin:-3px auto 0 200px; font-size:10px;">  
-by <b>M Ramzan Ch</b>   
-</p>  
-  
-<p align="center" style="margin:3px 0 0 0;">  
-  <a href="https://github.com/MegaMind-Solution?tab=followers">  
-    <img src="https://img.shields.io/github/followers/MegaMind-Solution?label=Followers&style=social" alt="GitHub Followers"/>  
-  </a>  
-  <a href="https://github.com/MegaMind-Solution">  
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=MegaMind-Solution" alt="Profile Views"/>  
-  </a>  
-</p>  
-  
-<p align="center">  
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>  
-</p>  
-<p align="center">  
-  <b>Welcome to my coding universe!</b>  
-</p>  
-  
----  
-  
-## 🌟 About Me  
-  
-I’m **M Ramzan Ch**, Web Designer & Developer    
-Passionate about coding, innovation, and building solutions that matter.    
-  
----  
-  
-## 👑 Founder Of  
-🚀 **MainRoute Core**    
-🎬 **MindRise Designs**    
-🤖 **MegaMind-Solution**  
-  
----  
-  
-## 🏢 My Agencies And Companies  
-<table>  
-  <tr>  
-    <td align="center">  
-      <a href="https://github.com/MegaMind-Solution" target="_blank">  
-        <img src="./images/M Ramzan Ch/MRc Official Gear Logo.png" alt="MainRoute Core" width="100"/><br/>  
-        <strong>MainRoute Core</strong>  
-      </a>  
-    </td>  
-    <td align="center">  
-      <a href="https://github.com/MegaMind-Solution" target="_blank">  
-        <img src="./images/M Ramzan Ch/MRd Official CameraLight Logo.png"MindRise Designs" width="100"/><br/>  
-        <strong>MindRise Designs</strong>  
-      </a>  
-    </td>  
-    <td align="center">  
-      <a href="https://github.com/MegaMind-Solution" target="_blank">  
-        <img src="./images/M Ramzan Ch/MegaMind-Solution Old Bot Logo.png" width="100"/><br/>  
-        <strong>MegaMind-Solution</strong>  
-      </a>  
-    </td>  
-  </tr>  
-</table>  
-  
----  
-  
-## 🛠️ Skills & Technologies    
-  
-<table>  
-  <tr>  
-    <td width="180">  
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25"/> <b>HTML5</b>  
-    </td>  
-    <td>  
-      <div style="background:#ddd; border-radius:8px; height:20px; width:100%;">  
-        <div style="background:#E34F26; height:100%; width:95%; border-radius:8px; text-align:center; color:white; font-weight:bold;">95%</div>  
-      </div>  
-    </td>  
-  </tr>  
-  <tr>  
-    <td>  
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25"/> <b>CSS3</b>  
-    </td>  
-    <td>  
-      <div style="background:#ddd; border-radius:8px; height:20px; width:100%;">  
-        <div style="background:#1572B6; height:100%; width:90%; border-radius:8px; text-align:center; color:white; font-weight:bold;">90%</div>  
-      </div>  
-    </td>  
-  </tr>  
-  <tr>  
-    <td>  
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25"/> <b>JavaScript</b>  
-    </td>  
-    <td>  
-      <div style="background:#ddd; border-radius:8px; height:20px; width:100%;">  
-        <div style="background:#F7DF1E; height:100%; width:80%; border-radius:8px; text-align:center; font-weight:bold; color:#000;">40%</div>  
-      </div>  
-    </td>  
-  </tr>  
-  <tr>  
-    <td>  
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="25"/> <b>Markdown</b>  
-    </td>  
-    <td>  
-      <div style="background:#ddd; border-radius:8px; height:20px; width:100%;">  
-        <div style="background:#000; height:100%; width:85%; border-radius:8px; text-align:center; color:white; font-weight:bold;">65%</div>  
-      </div>  
-    </td>  
-  </tr>  
-  <tr>  
-    <td>  
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="25"/> <b>Smali</b>  
-    </td>  
-    <td>  
-      <div style="background:#ddd; border-radius:8px; height:20px; width:100%;">  
-        <div style="background:#4285F4; height:100%; width:70%; border-radius:8px; text-align:center; color:white; font-weight:bold;">30%</div>  
-      </div>  
-    </td>  
-  </tr>  
-  <tr>  
-    <td>  
-      <img src="https://cdn-icons-png.flaticon.com/512/888/888859.png" width="25"/> <b>Web Developer</b>  
-    </td>  
-    <td>  
-      <div style="background:#ddd; border-radius:8px; height:20px; width:100%;">  
-        <div style="background:#FF5722; height:100%; width:90%; border-radius:8px; text-align:center; color:white; font-weight:bold;">90%</div>  
-      </div>  
-    </td>  
-  </tr>  
-</table>  
-  
----  
-  
-## 🚀 Top Repositories
-- [**MegaMind-Solution**](https://github.com/MegaMind-Solution/MegaMind-Solution) - Config files for my GitHub profile.
-- [**Pro-Profiles**](https://github.com/MegaMind-Solution/Pro-Profiles) – Power up your GitHub profile with awesome readmes and automations!
-- [**MRamzanCh**](https://mramzanch.blogspot.com/) – My Portfolio page! 
-- [**My_Modes**](https://github.com/MegaMind-Solution/My_Modes) – Explore my custom modes, tools, and productivity boosters.  
-- [**DownTube_Vip_Mod_Of_Snaptube**](https://github.com/MegaMind-Solution/DownTube_Vip_Mod_Of_Snaptube) – A revamped experience for video lovers!  
-- [**Recordit-best-screen-recoder**](https://github.com/MegaMind-Solution/Recordit-best-screen-recoder) – Capture your screen with ease and efficiency.  
-  
----  
-  
-## 🌐 Connect With Me    
-  
-<p align="center" style="gap:10px;">  
-  <a href="https://facebook.com/rm4814691" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" style="margin:auto 10px;" width="40" alt="Facebook"/></a>  
-  <a href="https://instagram.com/rm4814691" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" style="margin:auto 10px;" width="40" alt="Instagram"/></a>  
-  <a href="https://pk.linkedin.com/in/mramzanch" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="margin:auto 10px;" width="40" alt="LinkedIn"/></a>  
-  <a href="https://MainRoute-Core.github.io.co" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="40" style="margin:auto 10px;" alt="Website"/></a>  
-  <a href="mailto:mms@mrc.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" style="margin:auto 10px;" width="40" alt="Email"/></a>  
-</p>  
-  
----  
-  
-## 📊 GitHub Stats  
-
-[![Pro Bandey profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://github.com/Pro-Bandey)
-
-  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MegaMind-Solution&theme=tokyo-night" alt="Activity Graph"/> 
-  <img src="https://github-readme-stats.vercel.app/api?username=MegaMind-Solution&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>  
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=MegaMind-Solution&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MegaMind-Solution&layout=compact&theme=tokyonight" alt="Top Languages"/>  
-</p> 
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=M%20Ramzan%20Ch&fontSize=55&fontAlignY=38&desc=Web%20Developer%20•%20UI%20Designer%20•%20Open%20Source&descAlignY=60&animation=fadeIn"
+    width="100%"
+    alt="Banner"/>
+</p>
+
+<p align="center">
+  <img
+    src="https://avatars.githubusercontent.com/u/191318204?v=4"
+    width="160"
+    alt="M Ramzan Ch"/>
+</p>
+
+<div align="center">
+
+![](https://img.shields.io/badge/Web%20Developer-0A66C2?style=for-the-badge)![%2D%2D%2D%2D%2D%2D](https://img.shields.io/badge/%2D%2D%2D%2D%2D%2D-000000?style=for-the-badge)![](https://img.shields.io/badge/UI%20Designer-FF4088?style=for-the-badge)![%2D%2D%2D%2D%2D%2D](https://img.shields.io/badge/%2D%2D%2D%2D%2D%2D-000000?style=for-the-badge)![](https://img.shields.io/badge/Open%20Source-3FB950?style=for-the-badge)![%2D%2D%2D%2D%2D%2D](https://img.shields.io/badge/%2D%2D%2D%2D%2D%2D-000000?style=for-the-badge)![](https://img.shields.io/badge/Automation-FF9800?style=for-the-badge)
+
+</div>
+
+
+
+<h1 align="center">
   
----  
-  
-  
-## 🎯 Fun Facts  
-  
-- 🚀 Always learning and exploring new tech.    
-- 💡 Love automating mundane tasks.    
-- 🎵 Music and coding go hand in hand for me.    
-  
----  
-  
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+Hi <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="32">
+
+</h1>
+
+<p align="center">
+A passionate <b>Web Developer</b>, <b>UI Designer</b>, and <b>Open Source Enthusiast</b><br>
+Building lightweight applications, browser extensions, automation tools, and modern web experiences.
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=700&lines=Web+Developer;UI+Designer;Open+Source+Contributor;JavaScript+Developer;Building+Tools+That+Solve+Real+Problems" alt="Typing SVG" />
+</p>
+
+---
+
+# 🌟 Welcome
+
+I'm passionate about creating practical software that improves productivity and simplifies everyday workflows.
+
+I enjoy designing clean user interfaces, developing browser extensions, building Progressive Web Apps, and creating developer-focused tools with performance and simplicity in mind.
+
+My goal is to build projects that are lightweight, easy to use, and open for everyone to learn from and contribute to.
+
+---
+
+# 👋 About Me
+
+- 🌐 Web Developer focused on modern web technologies
+- 🎨 UI Designer who enjoys clean and responsive interfaces
+- ⚡ Passionate about Browser Extensions & PWAs
+- 🤖 Building automation tools for everyday workflows
+- 🛠️ Creating developer utilities and reusable components
+- ❤️ Active supporter of Open Source software
+- 📚 Always learning and experimenting with new technologies
+
+---
+
+# 🚀 Current Focus
+
+- Modern JavaScript Applications
+- Browser Extensions
+- Progressive Web Apps (PWA)
+- Open Source Projects
+- Node.js Development
+- Developer Tools
+- UI Components
+- Automation Workflows
+
+---
+
+# 💡 Philosophy
+
+> **Build software that solves real problems, stays lightweight, and remains enjoyable to use.**
+
+---
+
+# 🏢 Organizations & Communities
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+<a href="https://mainroute-core.github.io/">
+
+<img src="./images/MRamzanCh/MRC_Nuca.png" width="110">
+
+### MainRoute Core
+
+**Founder**
+
+Building open-source software, web applications, and developer tools.
+
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+<a href="https://mainroute-core.github.io/mrd/">
+
+<img src="./images/MRamzanCh/MRD%20Stacam.png" width="110">
+
+### MindRise Designs
+
+**Founder**
+
+Creative UI/UX designs, branding, graphics, and digital experiences.
+
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+<a href="https://ggcokara.github.io/">
+
+<img src="https://ggcokara.github.io/src/img/logo.webp" width="110">
+
+### GGCOkara
+
+**Open Source Maintainer**
+
+Maintaining projects and contributing to the community.
+
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🤝 Collaboration
+
+I'm always interested in collaborating on projects related to:
+
+- 🌐 Web Development
+- 🧩 Browser Extensions
+- ⚡ JavaScript Libraries
+- 📱 Progressive Web Apps
+- 🤖 Automation
+- 🎨 UI Components
+- ❤️ Open Source
+
+# 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,git,github,vscode,markdown,npm&perline=10" />
+
+</p>
+
+
+<h1 align="center"> 🌐 Frontend ⚙️ Backend 🎨 UI / Design 🛠 Tools</h1>
+
+---
+
+## ⭐ Featured Repositories
+
+| Repository | Description |
+|------------|-------------|
+| [💰 Budgeted](https://github.com/MegaMind-Solution/Budgeted---Shared-Expense-Tracker-With-Guest-Mode-Features) | A collaborative budget and expense tracker for households, trips, and personal use. Easily split bills, manage shared budgets, and track expenses by category. |
+| [🚀 Chrome App Launcher](https://github.com/MegaMind-Solution/Chrome-App-Launcher) | Quickly access Google™ services, websites, and APIs from a clean and lightweight browser extension designed for speed and productivity. |
+| [📝 MDEditore](https://github.com/MegaMind-Solution/MDEditore) | A modern, customizable, and lightweight WYSIWYG Markdown editor built with pure JavaScript and no external dependencies. |
+| [⭐ Pro-Profiles](https://github.com/MegaMind-Solution/Pro-Profiles) | A curated collection of inspiring GitHub profile READMEs from developers, designers, and tech enthusiasts worldwide. |
+| [📨 Simple Universal Contact Form](https://github.com/MegaMind-Solution/Simple-Universal-Contact-Form) | A universal WordPress contact form plugin featuring a centralized backend, automatic admin detection, reusable architecture, and full editor integration. |
+| [🔔 Toaster](https://github.com/MegaMind-Solution/toaster) | A lightweight, zero-dependency JavaScript library that transforms native HTML `title` attributes into elegant floating toast-style tooltips. |
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MegaMind-Solution&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+
+<p align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MegaMind-Solution&bg_color=2e2c35&color=f44234&line=f44234&point=ff837a&area=true&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/MegaMind-Solution?theme=dark" />
+  <img alt="MegaMind-Solution's commit history" src="https://commit-history.com/embed/MegaMind-Solution" />
+</picture>
+
+</p>
+
+---
+
+> **Note:** You'll need to add the GitHub Action that generates the snake animation.
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/MegaMind-Solution">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+<img src="https://img.shields.io/badge/%2D%2D%2D%2D%2D%2D-000000?style=for-the-badge"/>
+<a href="https://www.linkedin.com/in/mramzanch">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<img src="https://img.shields.io/badge/%2D%2D%2D%2D%2D%2D-000000?style=for-the-badge"/>
+<a href="https://facebook.com/mramzanch01">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
+</a>
+<img src="https://img.shields.io/badge/%2D%2D%2D%2D%2D%2D-000000?style=for-the-badge"/>
+<a href="https://x.com/rm4814691">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X"/>
+</a>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=MegaMind-Solution&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%2D%2D%2D%2D%2D%2D-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/MegaMind-Solution?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/%2D%2D%2D%2D%2D%2D-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/MegaMind-Solution?style=for-the-badge&logo=github"/>
+
+</p>
+
+---
+
+# 💬 Favorite Quote
+
+> **"Great software isn't built by adding more features—it's built by removing unnecessary complexity."**
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! ❤️
+
+*"Keep learning, keep building, and keep sharing."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
+</div>
